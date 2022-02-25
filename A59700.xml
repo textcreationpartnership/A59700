@@ -1,0 +1,1395 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Discoveries, or, An exploration and explication of some enigmatical verities hitherto not handled by any author viz., in the written Word of God, in the commentaries of the fathers, in the cabal of the stoicks, many choice inferences and unheard of (yet considerable) nicities [sic] never proposed : also A seraphick rhapsodie on the passion of Jesus Christ our sole redeemer / by S. Sheppard.</title>
+            <author>Sheppard, S. (Samuel)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 104 KB of XML-encoded text transcribed from 44 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59700</idno>
+            <idno type="STC">Wing S3160A</idno>
+            <idno type="STC">ESTC R29355</idno>
+            <idno type="EEBO-CITATION">11077144</idno>
+            <idno type="OCLC">ocm 11077144</idno>
+            <idno type="VID">46281</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59700)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46281)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1431:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Discoveries, or, An exploration and explication of some enigmatical verities hitherto not handled by any author viz., in the written Word of God, in the commentaries of the fathers, in the cabal of the stoicks, many choice inferences and unheard of (yet considerable) nicities [sic] never proposed : also A seraphick rhapsodie on the passion of Jesus Christ our sole redeemer / by S. Sheppard.</title>
+                  <author>Sheppard, S. (Samuel)</author>
+               </titleStmt>
+               <extent>[24], 63 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B. Alsop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata on p. 63.</note>
+                  <note>Includes index.</note>
+                  <note>Imperfect: stained with print showthrough and loss of print.</note>
+                  <note>"A saraphic rhapsody..." has special t.p.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:46281:1"/>
+                  <pb facs="tcp:46281:1" rendition="simple:additions"/>
+                  <p> DISCOVERIES. OR An EXPLORATION AND EXPLICATION OF Some Aenigmatical Verities, hitherto not handled by any Authour. viz.
+<list>
+                        <item>
+                           <hi>In the written Word of God.</hi>
+                        </item>
+                        <item>
+                           <hi> In the Commentaries of the Fathers.</hi>
+                        </item>
+                        <item>
+                           <hi> In the Cabal of the Stoicks.</hi>
+                        </item>
+                     </list> Many choice Inferences, and unheard of (yet conſiderable) Nicities, never before Propoſed. ALSO, <hi>A Seraphick Rhapſodie on the Paſſion of</hi> Jeſus Chriſt <hi>our ſole</hi> Redeemer.</p>
+                  <p>
+                     <hi>By</hi> S. SHEPPARD. </p>
+                  <p>
+                     <hi>London;</hi> Printed by <hi>B. Alſop,</hi> near the Upper Pump in Grubſtreet. 1652.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:46281:2" rendition="simple:additions"/>
+                  <pb facs="tcp:46281:2"/>
+                  <head>To the truly Iudicious and eminently learned, <hi>IOHN SELDEN,</hi>
+                     <abbr>Eſq</abbr>.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">W</seg>Ere not your humanity my Rock, I could not but be thought audacious, (if not inſolent) to make you (learned Sir) Pa<g ref="char:EOLhyphen"/>tron to this piece; you, whoſe works have carried your name and honour as far as learning hath ſpread her wings; you, whoſe ſmalleſt pieces, are worth whole volumes of other writers, ſo that the ancients have no cauſe to glory in their <hi>Livie,</hi> or their <hi>Seneca,</hi> ſince the beſt of thoſe they ſo much boaſt of, are
+<pb facs="tcp:46281:3"/> blended in your perſon, and you are maſter of all their perfections: but Sir, I know you will not think your ſelf diſparaged, that I (how mean or infor<g ref="char:EOLhyphen"/>tunate ſoever am ſo bold thus to ſa<g ref="char:EOLhyphen"/>lute you, ſince you know (as well as I) the greateſt Monarchs ever yet in pow<g ref="char:EOLhyphen"/>er, have deigned to accept (if I may ſpeak modeſtly) and refund far un<g ref="char:EOLhyphen"/>worthier ſubjects then theſe. You know Sir, that <hi>Mercury</hi> the God of wiſedom, hath his houſe, his exaltation, and his triumph in one and the ſame ſign; ne<g ref="char:EOLhyphen"/>vertheleſſe, he hath greater force and efficacy in his unfortunate one. Theſe Eſſays (for the moſt part) found pro<g ref="char:EOLhyphen"/>duction in the infamous Goal of New<g ref="char:EOLhyphen"/>gate, where (for my loyalty to the late King) I ſuffered a ſevere reſtraint al<g ref="char:EOLhyphen"/>moſt fourteen moneths. Theſe Delinea<g ref="char:EOLhyphen"/>tions (I am confident) as dull as they are, will ſeem to ſome but as ſo many night-pieces; they will cry out, that like (the Cuttle fiſh, I hide my ſelf too
+<pb facs="tcp:46281:3"/> much in my own inke: But to you (moſt learned Sir) if I may ſeem but the leaſt guided by caeleſtiall adjuve<g ref="char:EOLhyphen"/>ments, and worthy of your pardon, I have my wiſh, and ſhall eſteem my ſelf ever obliged, as becommeth him that affectionately honoureth you, and is,</p>
+                  <closer>
+                     <salute>Sir, </salute> 
+                     <signed>The devoted ſervant of your worth S. SHEPPARD.</signed>
+                  </closer>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="tcp:46281:4"/>
+                  <head>To the Peruſer.</head>
+                  <p>
+                     <seg rend="decorInit">S</seg>Ome of my friends (whom I unfeig<g ref="char:EOLhyphen"/>nedly honour for their learning, &amp;c.) have of late been pleaſed to tax my ſtudies (referring to ſome<g ref="char:EOLhyphen"/>what I lately divulged) as incom<g ref="char:EOLhyphen"/>patible with my profeſſion, &amp;c. but did they know how meanly I prize thoſe pieces of frippery, they would
+<pb facs="tcp:46281:4"/> ſuſpend their cenſures; and be confi<g ref="char:EOLhyphen"/>dent, that their Severitia (in that kind) cannot exceed mine<g ref="char:punc">▪</g> he that thinks worſe of thoſe Rimes then my ſelf, I ſcorn him; for he cannot: he that thinks better is a fool. We know that the greateſt Kings and Stateſ<g ref="char:EOLhyphen"/>men ſometimes purpoſely deſert their ſtations, yet not forget who they are, nor what power they manage. But to let my friends know I can be ſeri<g ref="char:EOLhyphen"/>ous, and (ſitting in <hi>Porticu Zenonis)</hi> ſeem as ſullen as the ſowreſt of them, I preſent this to publick view where<g ref="char:EOLhyphen"/>in I have indeavoured to ſtive as much good matter as I could in a lit<g ref="char:EOLhyphen"/>tle room (perhaps) to affront parti<g ref="char:EOLhyphen"/>allity, and opinion (the Goddeſſe of the world) and beard the <hi>Zanzum<g ref="char:EOLhyphen"/>mims</hi>
+                     <pb facs="tcp:46281:5"/> of Gyant-wits of the time. Theſe Iſſays, and delineations I de<g ref="char:EOLhyphen"/>dicate onely to the judicious: for the Rabble of miſguided Cenſors, I ſay—</p>
+                  <lg>
+                     <l>Hence ye big-buzzing little bodied Gnats;</l>
+                     <l>Ye tatling ecchoes, huge tongu'd Pig<g ref="char:EOLhyphen"/>my brats:</l>
+                     <l>I mean to ſleep; wake not my ſlumbring brain,</l>
+                     <l>With your malignant weak detracting vein.</l>
+                  </lg>
+                  <closer>
+                     <signed>S. SHEPPARD.</signed>
+                  </closer>
+               </div>
+               <div type="table_of_contents">
+                  <pb facs="tcp:46281:5"/>
+                  <head>An Alphabetical Table, Directing to the moſt material Obſervations throughout this Work.</head>
+                  <list>
+                     <head>A</head>
+                     <item>
+                        <hi>Chap.</hi> 1. ANgels, that they are not unacquainted with things done here in this Elementary world.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 2. All ſhall be ſaved, the manner how; an old errour newly revived. All of old ſaved by the ſame faith, the ſame allegorically illustrated.</item>
+                           <item>
+                              <hi>Sect.</hi> 3. <hi>Apio</hi> the Grammarian.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>chap.</hi> 2, &amp;c.</item>
+                     <item>
+                        <hi>Chap.</hi> 3. <hi>Adam</hi> and <hi>Eve</hi> lost Paradiſe by luxurious de<g ref="char:EOLhyphen"/>ſires.</item>
+                     <item>
+                        <hi>Chap.</hi> 4. An apologie for dancing and kiſſing.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 3. <hi>Ambroſe</hi> his reaſon why <hi>Eliah</hi> fled from the face of <hi>Jezabel,</hi> yet boldly met <hi>Ahab,</hi> 1 <hi>Kin.</hi> 10.</item>
+                           <item>
+                              <hi>Alexander</hi> the Great his continency.</item>
+                        </list>
+                     </item>
+                     <pb facs="tcp:46281:6"/>
+                     <item> 
+                        <hi>Chap.</hi> 5. <hi>Anthonies</hi> ſtrictneſſe.
+<list>
+                           <item>
+                              <hi>Ambroſe</hi> his reaſon why <hi>Joſeph</hi> left his coat with his Miſtreſſe.</item>
+                           <item>
+                              <hi>Sect.</hi> 3. <hi>Abraham</hi> not ſo long lived as his ſon <hi>I<g ref="char:EOLhyphen"/>ſaac,</hi> the reaſon way.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 6.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 2. <hi>Apolinarius</hi> his errour.</item>
+                           <item>
+                              <hi>Sect.</hi> 3. All not capable of a reſurrection, accor<g ref="char:EOLhyphen"/>ding to the Iewiſh Rabbins; the names of thoſe they except againſt.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 7.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 2. An account given how the reſurrection of our bodies may be perfected by natural reaſon.</item>
+                           <item>
+                              <hi>Sect.</hi> 3. Angels, that they are alwaies conver<g ref="char:EOLhyphen"/>ſant with us here below, that they joyn with us in the firſt Petition of the Lords Prayer.</item>
+                           <item>
+                              <hi>Sect.</hi> 5 Angels, whether Miniſterial in Chriſts reſurrection or not.</item>
+                           <item>
+                              <hi>Sect.</hi> 6. Angels, whether God will not uſe their aid at the laſt day in raiſing our bodies.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <list>
+                     <head>B</head>
+                     <item>
+                        <hi>chap,</hi> 1. &amp;c.</item>
+                     <item>
+                        <hi>Chap.</hi> 2.
+<list>
+                           <item>
+                              <hi>ſect.</hi> 6. BOdy of man ſubject to ſix thouſand ſeveral diſeaſes.</item>
+                        </list>
+                     </item>
+                     <pb facs="tcp:46281:6"/>
+                     <item> 
+                        <hi>Chap.</hi> 3. Ba<gap reason="illegible" resp="#OXF" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> bemoaning of a valiant (but drunken) Commander.</item>
+                     <item>
+                        <hi>Chap.</hi> 4. <hi>Sect.</hi> 3. Beautiful objects, how dangerous.</item>
+                     <item>
+                        <hi>Chap.</hi> 5. Brayding the hair, and painting the face, how lawfull.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 3. <hi>Baal-peor,</hi> the Idol of the <hi>Midianites,</hi> why worſhipped by women.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 6. Bodies aſſum'd or counterfeit receive their full perfection at their creation.</item>
+                     <item>
+                        <hi>Chap.</hi> 7. Blaſphemy belched by <hi>Overton</hi> and his adhe<g ref="char:EOLhyphen"/>rents.</item>
+                  </list>
+                  <list>
+                     <head>C</head>
+                     <item>
+                        <hi>Chap.</hi> 1.
+<list>
+                           <item>
+                              <hi>ſect.</hi> 3. <hi>CYnocephalia</hi> that revived <hi>Homer.</hi>
+                           </item>
+                           <item>Canibals, or the craws of Ravens, though digeſting our fleſh, not able to hinder the con<g ref="char:EOLhyphen"/>nexion of our bodies.</item>
+                           <item>
+                              <hi>Sect.</hi> 4. Conceits of the <hi>Jewiſh Rabbins,</hi> concer<g ref="char:EOLhyphen"/>ning Gods three Keys.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 2.
+<list>
+                           <item>
+                              <hi>Chryſoſtomes</hi> place in heaven for the ancient heathen Sages.</item>
+                           <item>
+                              <hi>Cauſabon</hi> upon <hi>Baronius.</hi>
+                           </item>
+                           <pb facs="tcp:46281:7"/>
+                           <item> 
+                              <hi>Sect.</hi> 5, Covenants between God and Chriſt, be<g ref="char:EOLhyphen"/>fore the creation of the world.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 3.
+<list>
+                           <item>
+                              <hi>Cyrus</hi> his defeating the Amazons.</item>
+                           <item>Carowſe, the naturalizing of the word amongſt us.</item>
+                           <item>
+                              <hi>Chryſoſtomes</hi> obſervation upon <hi>Luke,</hi> 13. 45.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 4. <hi>Capitol</hi> of <hi>Rome</hi> beſieged, a rare example.</item>
+                     <item>
+                        <hi>Chap.</hi> 5.
+<list>
+                           <item>Conjectures why our Saviour opened ſo many eyes, and unlocked ſo many ears,</item>
+                           <item>
+                              <hi>Sect.</hi> 2. Couzenage practiſed by <hi>Jacob.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 7.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 2. Christs reſurrection powerfull in refe<g ref="char:EOLhyphen"/>rence to us.</item>
+                           <item>
+                              <hi>Sect.</hi> 4. <hi>Corah, Dathan,</hi> and <hi>Abiram,</hi> how e<g ref="char:EOLhyphen"/>quitably puniſhed.</item>
+                           <item>
+                              <hi>Sect.</hi> 6. Curious enquiries concerning the reſur<g ref="char:EOLhyphen"/>rection of our bodies.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <list>
+                     <head>D</head>
+                     <item>
+                        <hi>Chap.</hi> 1, &amp;c,</item>
+                     <item>
+                        <hi>Chap.</hi> 2.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 3. Diſtinction in the Ioy of the Angels.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 3. Devils lodged in every grape, according to the <hi>Alchoran.</hi>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 4.
+<list>
+                           <item>Doves ingender at their mouths.</item>
+                           <pb facs="tcp:46281:7"/>
+                           <item> 
+                              <hi>Sect.</hi> 4. Defence of ſome Authors.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 5.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 2. <hi>Dambo</hi> the Hermit.</item>
+                           <item>
+                              <hi>Sect.</hi> 3. <hi>Dalilah, Sampſons</hi> miſſreſſe dreadful in her very name.</item>
+                           <item>
+                              <hi>Dioniſius</hi> the elder of <hi>Sicilie,</hi> his colloquie with his ſon.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 6. Damnable hereſie, broached by <hi>Manicheus,</hi> and <hi>Marion.</hi>
+                     </item>
+                     <item>
+                        <hi>Chap,</hi> 7. Dulneſſe and ſtupidity in the wiſeſt of the Hea<g ref="char:EOLhyphen"/>then in reference to true ſaving knowledge.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 2. Diſciples of Chriſt, how unlikely it was that they ſhould ſteal away the body of their dead maſter.</item>
+                           <item>
+                              <hi>Sect.</hi> 4. Destruction of <hi>Sodom</hi> and <hi>Gomorrah</hi> by fire and brimſtone, the great contradicti<g ref="char:EOLhyphen"/>on of nature therein.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <list>
+                     <head>E</head>
+                     <item>
+                        <hi>Chap.</hi> 1.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 3. <hi>Ezekiahs</hi> deſcription of the manner of Gods actuating a general reſurrection.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 2.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 2. Equality and continuance where alone to be expected.</item>
+                           <item>
+                              <hi>Sect.</hi> 5. Eternal life promiſed on Gods part ere the world was, an expeſition upon <hi>Titus,</hi> 1. 2, and <hi>Proverbs,</hi> 8. 13.</item>
+                        </list>
+                     </item>
+                     <pb facs="tcp:46281:8"/>
+                     <item> 
+                        <hi>Chap.</hi> 4.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 2. Eaſe, how dangerous.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 5. Eaſier to keep out then to cast out luſt.</item>
+                     <item>
+                        <hi>Chap.</hi> 6.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 2. Eye, and Touch, the fidelity of thoſe two ſenſes.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 7.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 2. Emblemes and Types of the reſurrection in the book of Nature.</item>
+                           <item>
+                              <hi>Sect.</hi> 6. Excrements, whether at our reſurrec<g ref="char:EOLhyphen"/>tion our hair and nails that have been cut from us, ſhall not riſe with us.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <list>
+                     <head>F</head>
+                     <item>
+                        <hi>Chap,</hi> 1.
+<list>
+                           <item>
+                              <hi>ſect.</hi> 3. FAlacious dealing of the <hi>Jewiſh Rabbins,</hi> per<g ref="char:EOLhyphen"/>verting the words of <hi>David, Pſal.</hi> 3. 4.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap,</hi> 2. Fulneſſe of the Angels joy.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 4. Folly proceeding of wiſdome the most foul.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 3.
+<list>
+                           <item>Feaſting of ſome the famiſhing of others.</item>
+                           <item>Feasts the Phyſitians best friends.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 4. Fixing of the eye, how obnoxious.</item>
+                     <item>
+                        <hi>Chap.</hi> 5. &amp;c.</item>
+                     <pb facs="tcp:46281:8"/>
+                     <item> 
+                        <hi>Chap.</hi> 6. Faſhion of Chriſt not fantaſtical but real.</item>
+                     <item>
+                        <hi>Chap.</hi> 7.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 3. Familiarity of the Angels with Max<g ref="char:EOLhyphen"/>kind.</item>
+                           <item>
+                              <hi>Sect.</hi> 6. Females whether they ſhall not be chan<g ref="char:EOLhyphen"/>ged at the reſurrection; and whether there ſhall be any diſtinction of Sexes.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <list>
+                     <head>G</head>
+                     <item>
+                        <hi>Chap.</hi> 1. Gods ſpecial revelation to the Angels.</item>
+                     <item>
+                        <hi>Chap.</hi> 2. Gods mercy not to be limited to Christians one<g ref="char:EOLhyphen"/>ly.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 4. Gods permiſſion of <hi>Solomen</hi> to wade through the deep ſea of vanity, the reaſon why.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 3. Gluttony, bow riſe in theſe times,</item>
+                     <item>
+                        <hi>Chap,</hi> 4. Gazing too greedily, how dangerous, instanced in <hi>Eve.</hi>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 5. Gaudie attire the Bawd to luſt.</item>
+                     <item>
+                        <hi>Chap.</hi> 6.
+<list>
+                           <item>
+                              <hi>Sect,</hi> God and man made one compound by <hi>Apol<g ref="char:EOLhyphen"/>linarius.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <pb facs="tcp:46281:9"/>
+                     <item> 
+                        <hi>Chap.</hi> 7.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 3. Gods works miſtaken by the heathen for their Gods.</item>
+                           <item>
+                              <hi>Sect.</hi> 4. Gods retalliating vengeance.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <list>
+                     <head>H</head>
+                     <item>
+                        <hi>Chap.</hi> 1.
+<list>
+                           <item> 
+                              <hi>Sect.</hi> 2. HEaven not ſhut up till the time of Christs incarnation, as <hi>Sergius</hi> and others af<g ref="char:EOLhyphen"/>firm.</item>
+                           <item>
+                              <hi>Sect. ibid. Hoſanna</hi> ſung to our Saviour as he rode to the Temple, the interpretation there<g ref="char:EOLhyphen"/>of.</item>
+                           <item>
+                              <hi>Sect.</hi> 3. How the reſurrection of our bodies ſhall be wrought, according to the Iewiſh Rab<g ref="char:EOLhyphen"/>bins.</item>
+                           <item>
+                              <hi>Sect.</hi> 4. The wiſer ſort of Heathen, their opini<g ref="char:EOLhyphen"/>on concerning the ſame.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 2. <hi>Heraclitus</hi> with <hi>Socrates,</hi> ranked by <hi>Juſtin Mar<g ref="char:EOLhyphen"/>tyr</hi> in heaven, the authors opinion concerning the ſouls of deceaſed Pagans.</item>
+                     <item>
+                        <hi>Chap.</hi> 3. <hi>Hillarion</hi> his rare abstinence.</item>
+                     <item>
+                        <hi>Chap.</hi> 4. How an idle perſon may be ſaid to be the De<g ref="char:EOLhyphen"/>vils tempter.</item>
+                     <item>
+                        <hi>Chap.</hi> 5.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 3. Heathens why they painted their laſ<g ref="char:EOLhyphen"/>civious
+<pb facs="tcp:46281:9"/> God and Goddeſſe naked.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 6. How <hi>Nicodemus</hi> might be ſaid to reſort to an Saviour by night, <hi>&amp;c.</hi>
+                     </item>
+                     <item>
+                        <hi>Chap,</hi> 7. Heathen by Phyloſophy and the ſcale of the creature aſcended very high.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 4, <hi>Herodias</hi> death.</item>
+                           <item>
+                              <hi>Hatto</hi> Biſhop of <hi>Ments</hi> Gods wonderful judge<g ref="char:EOLhyphen"/>ment towards him.</item>
+                           <item>
+                              <hi>Sect.</hi> 6. <hi>Holy land</hi> why (in all probability) <hi>Jo<g ref="char:EOLhyphen"/>ſeph</hi> and the <hi>Patriarchs</hi> were ſo ſolicitous to have their bones buried there.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <list>
+                     <head>I</head>
+                     <item>
+                        <hi>Chap,</hi> 1, &amp;c.</item>
+                     <item>
+                        <hi>Chap,</hi> 2.
+<list>
+                           <item>
+                              <hi>Sect,</hi> 3. JOy, how different from mirth, a definition of either.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 3, Italian Proverb concerning gluttony.</item>
+                     <item>
+                        <hi>Chap.</hi> 4.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 2. Idleneſſe elaborately delineated.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 5.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 3. <hi>Jacob</hi> lived but 147 years, why.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 6.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 2. Ietelligence of the ſenſes penetrating to the intellect.</item>
+                        </list>
+                     </item>
+                     <pb facs="tcp:46281:10"/>
+                     <item> 
+                        <hi>Chap.</hi> 7.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 2. Inſtances proving by natural reaſon the poſſibility of a reſurrection.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <list>
+                     <head>K</head>
+                     <item>
+                        <hi>Chap,</hi> 1. &amp;c.</item>
+                     <item>
+                        <hi>Chap.</hi> 2. KNowledge of Chriſt might be revealed to the wiſer ſort of heathen, even at their la<g ref="char:EOLhyphen"/>teſt gaſp.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 2. Knowing men are onely capable of true joy.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 3. &amp;c,</item>
+                     <item>
+                        <hi>Chap.</hi> 4.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 4. King <hi>Davids</hi> adultery, the occaſion thereof.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 6. &amp;c.</item>
+                     <item>
+                        <hi>Chap.</hi> 7. &amp;c.</item>
+                  </list>
+                  <list>
+                     <head>L</head>
+                     <item>LEaven, that a little bone in every mans back ſhal partake of the nature of that in order to a reſurrection, <hi>&amp;c.</hi>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 2.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 2. <hi>Letari et gaudere,</hi> their real differ<g ref="char:EOLhyphen"/>ence.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 3. &amp;c.</item>
+                     <item>
+                        <hi>Chap.</hi> 4.
+<list>
+                           <item>
+                              <hi>Sect,</hi> 2. Luſt the exuberance of idleneſſe.</item>
+                           <pb facs="tcp:46281:10"/>
+                           <item> Labour, loves ſtrongest Antidote.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 5, <hi>Licurgus</hi> his law concerning women.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 3. Lust a ſoaker of mens estates, and how.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 6. <hi>Legerdemain</hi> practiſed by Christ, according to the blaſphemy of <hi>Marion.</hi>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 7. &amp;c.</item>
+                  </list>
+                  <list>
+                     <head>M</head>
+                     <item>
+                        <hi>Chap.</hi> 1.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 2. MInerals juice of hearbs extract their o<g ref="char:EOLhyphen"/>perative faculty.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 2,
+<list>
+                           <item>
+                              <hi>Sect.</hi> 2. Mirtha paſſion most trivial.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 3.
+<list>
+                           <item>
+                              <hi>Macarius</hi> his incomparable abſtinence.</item>
+                           <item>
+                              <hi>Muſeus</hi> his mad opinion.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 4. &amp;c.</item>
+                     <item>
+                        <hi>Chap.</hi> 5. &amp;c.</item>
+                     <item>
+                        <hi>Chap.</hi> 6. &amp;c.</item>
+                     <item>
+                        <hi>Chap.</hi> 7.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 2. Martyrs bones annually riſing in <hi>Aegypt</hi> on Eaſter day.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <list>
+                     <head>N</head>
+                     <item>
+                        <hi>Chap.</hi> 1.
+<list>
+                           <item> 
+                              <hi>Sect.</hi> 2. No alterations, tranſmigrations, or diſperſi<g ref="char:EOLhyphen"/>ont of our bodies can force us out of Gods <hi>Granarie.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <pb facs="tcp:46281:11"/>
+                     <item> 
+                        <hi>Chap.</hi> 2.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 4. None ever made ſo perfect a diſcovery of mundane vanities as <hi>Solomon.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 3. No Drunkard to your Engliſh Drunkard.</item>
+                     <item>
+                        <hi>Chap.</hi> 4. &amp;c.</item>
+                     <item>
+                        <hi>Chap.</hi> 5. New faſhions how noxious.</item>
+                     <item>
+                        <hi>Chap.</hi> 6.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 3. <hi>Noahs</hi> floud, thoſe that periſhed therein not capable of a reſurrection, according to the Iewiſh Rabbins.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 7. &amp;c.</item>
+                  </list>
+                  <list>
+                     <head>O</head>
+                     <item>
+                        <hi>Chap.</hi> 1, &amp;c.</item>
+                     <item>
+                        <hi>Chap.</hi> 2.
+<list>
+                           <item> 
+                              <hi>Sect.</hi> 6. OVr Jouls ſubject to more diſeaſes then our bodies.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 3. &amp;c.</item>
+                     <item>
+                        <hi>Chap.</hi> 4. Orthodox warrant for dancing and kiſſing.</item>
+                     <item>
+                        <hi>Chap,</hi> 5.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 3. <hi>Origens</hi> obſervations in his 20 <hi>Homily</hi> upon <hi>Numbers.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 6. Our Saviours a true ſubſtantial body.</item>
+                     <item>
+                        <hi>Chap.</hi> 7.
+<list>
+                           <item>
+                              <hi>Sect,</hi> 2. Objects their moving faculty.</item>
+                           <pb facs="tcp:46281:11"/>
+                           <item> 
+                              <hi>Sect.</hi> 6. Our Reſurrection, whether we ſhall riſe all of one Age.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <list>
+                     <head>P</head>
+                     <item>
+                        <hi>Chap.</hi> 1. &amp;c.</item>
+                     <item>
+                        <hi>Chap.</hi> 2. PHiloſophy alone ſufficient to ſave the wiſer ſort of Heathen, according to ſome of the Fathers.</item>
+                     <item>
+                        <hi>Chap.</hi> 3. <hi>Procopius</hi> his opinion why <hi>Sampſon</hi> was inhibi<g ref="char:EOLhyphen"/>ted the uſe of wine.</item>
+                     <item>
+                        <hi>Chap.</hi> 4. &amp;c.</item>
+                     <item>
+                        <hi>Chap.</hi> 5. &amp;c.</item>
+                     <item>
+                        <hi>Chap.</hi> 6. Plants their admirable intelligence.</item>
+                     <item>
+                        <hi>Chap.</hi> 7. <hi>Plato, Plotinus,</hi> &amp;c. their concluſion of the ſoul to be immortal.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 2. <hi>Paſcaſin</hi> his holy Well.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Q</head>
+                     <item>
+                        <hi>Chap.</hi> 1. &amp;c.</item>
+                     <item>
+                        <hi>Chap.</hi> 2. &amp;c,</item>
+                     <item>
+                        <hi>Chap.</hi> 3.
+<list>
+                           <item>QVeen <hi>Thomiris.</hi>
+                           </item>
+                           <item>Quarrelling the inſeparable companion of Drunkenneſſe.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 4. &amp;c,</item>
+                     <item>
+                        <hi>Chap.</hi> 5. &amp;c.</item>
+                     <pb facs="tcp:46281:12"/>
+                     <item> 
+                        <hi>Chap.</hi> 6.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 3. Queſtions of ſtrange conſequence by the <hi>Jewiſh Rabbins.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 7. &amp;c.</item>
+                  </list>
+                  <list>
+                     <head>R</head>
+                     <item>
+                        <hi>Chap,</hi> 1. &amp;c.</item>
+                     <item>
+                        <hi>Chap,</hi> 2. &amp;c.</item>
+                     <item>
+                        <hi>Chap.</hi> 3. Rare examples of temperance, and moderation, inſtanced in divers holy men.</item>
+                     <item>
+                        <hi>Chap.</hi> 4.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 3. Reaſon why the Iſraelites were enjoyned to wear embroidered fringes on their gar<g ref="char:EOLhyphen"/>ments.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 5 &amp;c.</item>
+                     <item>
+                        <hi>Chap.</hi> 6.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 3. Reſurrection of the Children of wicked parents, forbidden by the <hi>Rabbins,</hi> their rea<g ref="char:EOLhyphen"/>ſon why.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 7.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 6. Reſurrection of our bodies, whether it ſhall be in <hi>April</hi> early in the morning, or at midnight.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <list>
+                     <head>S</head>
+                     <item>
+                        <hi>Chap.</hi> 1. &amp;c.</item>
+                     <item>
+                        <hi>Chap.</hi> 2.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 2. Sacriledge in any to rob the Heathen of Gods mercy.</item>
+                           <pb facs="tcp:46281:12"/>
+                           <item> 
+                              <hi>Stoicks,</hi> their admirable Paradox.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 3. <hi>Socrates,</hi> his ſaying.</item>
+                     <item>
+                        <hi>Chap.</hi> 4.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 2. <hi>St. Hieroms</hi> ſaying concerning idleneſs.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 5. <hi>St. Anthonies</hi> over nice Decorum.</item>
+                     <item>
+                        <hi>Chap.</hi> 6. &amp;c.</item>
+                     <item>
+                        <hi>Chap.</hi> 7. Some of the heathen, their excellent notions.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 6. <hi>Suarez</hi> his opinion.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <list>
+                     <head>T</head>
+                     <item>
+                        <hi>Chap.</hi> 1. &amp;c.</item>
+                     <item>
+                        <hi>Chap,</hi> 2.
+<list>
+                           <item>
+                              <hi>ſect.</hi> 2. THe joy of the Angels either eſſential or accid<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ental.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 3.
+<list>
+                           <item>The calamitous condition of theſe times.</item>
+                           <item>The ſtory of a Monk tempted by the Dviel.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 4.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 2. The golden ſaying of <hi>St. Anthony.</hi>
+                           </item>
+                           <item>
+                              <hi>Theodorets</hi> quere in his queſtions, <hi>&amp;c.</hi>
+                           </item>
+                           <item>
+                              <hi>Sect.</hi> 3. The reaſon why <hi>Alexander</hi> having con<g ref="char:EOLhyphen"/>quered <hi>Darius,</hi> would not be drawn to look up<g ref="char:EOLhyphen"/>on his daughters.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 5. &amp;c.</item>
+                     <item>
+                        <hi>Chap.</hi> 6.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 2. The proportion of our bodies probably
+<pb facs="tcp:46281:13"/> proving the reaſonableneſſe of our ſouls.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <list>
+                     <head>V</head>
+                     <item>
+                        <hi>Chap.</hi> 1. &amp;c.</item>
+                     <item>
+                        <hi>Chap.</hi> 2. &amp;c.</item>
+                     <item>
+                        <hi>Chap.</hi> 3. <hi>VItellius</hi> board.</item>
+                     <item>
+                        <hi>Chap.</hi> 4.
+<list>
+                           <item>
+                              <hi>Sect.</hi> 4. Vain verſes, and Ribauld talk.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 5. Vainneſs of Women in their Attire.</item>
+                     <item>
+                        <hi>Chap.</hi> 6. Vigour cannot be in aſſum'd or counterfeit bo<g ref="char:EOLhyphen"/>dies.</item>
+                  </list>
+                  <trailer>The end of the Table,</trailer>
+               </div>
+            </front>
+            <body>
+               <head>
+                  <pb n="1" facs="tcp:46281:13"/>DISCOVERIES.</head>
+               <div n="1" type="chapter">
+                  <head>CHAP. I. </head>
+                  <argument>
+                     <p>
+                        <hi>That the Angels know, both what hath been, and what is done here on Earth.</hi>
+                     </p>
+                  </argument>
+                  <p>
+                     <seg rend="decorInit">S</seg>Ome of latter times tells us of a wonderfull Glaſſe, wherein the ſaints and angels behold what<g ref="char:EOLhyphen"/>ſoever is done, nay whatſoever is thought in the Church be<g ref="char:EOLhyphen"/>low. I know not how we may be ſure that that Glaſſe is of Gods making; and if it be not, it muſt needs be a falſe one: but if they mean by that glaſſe, a ſpecial Revelation, making known to thoſe bleſſed ſpirits whatſoe<g ref="char:EOLhyphen"/>ver may redound to the honour of the Trinity by their knowledge, we may ſafely take them at their words; for though God conceal the works of
+<pb n="2" facs="tcp:46281:14"/> his goodneſſe, mercy, truth, and holineſſe already paſt, I make no queſtion, but his glorious Re<g ref="char:EOLhyphen"/>demption, admirable Diſpenſation, and all other occurrent favours, meeting <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>gether in one center for the good of thoſe appointed to Salvation, have been, and are always revealed to the whole Court of Heaven.</p>
+                  <div n="2" type="section">
+                     <head>SECT. II. </head>
+                     <argument>
+                        <p>
+                           <hi>Whether by the light of Reaſon onely, Sal<g ref="char:EOLhyphen"/>vation may be purchaſed.</hi>
+                        </p>
+                     </argument>
+                     <p>There hath not wanted thoſe, who have perem<g ref="char:EOLhyphen"/>ptorily affirmed (an opinion in theſe our days too much prevaent) That all, of all nations and people ſhall be ſaved, and conducted in this manner to heaven,
+<q>The Jews by <hi>Moſes,</hi> the Chriſtians by Chriſt, the heathen by <hi>Mahomet.</hi>
+                        </q> As I affirm not that the light of naturall reaſon is enough to ſave a man; ſo on the other ſide I dare not aver, that none at all were ſaved till the 15 year of <hi>Tiberius;</hi> and that heaven was quite ſhut up till after Chriſts paſſion, were an aſſertion befitting the mouth of <hi>Sergius</hi> the Maniche, that vouched it againſt St. <hi>Auguſtine.</hi> I conclude that all that died of old, were ſaved by a prioriſtical know<g ref="char:EOLhyphen"/>ledge of Chriſt, and that it is at the entrance of the heavenly Jeruſalem, as it was at Chriſt en<g ref="char:EOLhyphen"/>trance
+<pb n="3" facs="tcp:46281:14"/> into Jeruſalem below, you ſhall read that thoſe that went before as well as thoſe that came after, cried, <hi>Hoſanna</hi> to the ſon of <hi>David, i. e.</hi> ſave we pray thee, oh <hi>Meſſiah</hi> incarnate.</p>
+                  </div>
+                  <div n="3" type="section">
+                     <head>SECT. III. </head>
+                     <argument>
+                        <p>
+                           <hi>The ſtrange opinions of the Iewiſh Rab<g ref="char:EOLhyphen"/>bins, concerning the reſurrection; no difficulty therein in reſpect of God.</hi>
+                        </p>
+                     </argument>
+                     <p>Ask the Jewiſh Rabbins how the <note place="margin">
+                           <hi>Read more of this Cha.</hi> 6. §. 3.</note> reſurrection of our bodies ſhall be wrought, and they will tell you of a certain little bone, <hi>in ſpina dorſi,</hi> in every mans back, that ſhall never be ſubject to any putre<g ref="char:EOLhyphen"/>faction, and they will find you text for it too, in 3. 4. <hi>Pſal.</hi> where 'tis ſaid, he keepeth all their bones, ſo that one of them, <hi>unum ex ijs</hi> (as they make the Prophet ſpeak) ſhall never be bro<g ref="char:EOLhyphen"/>ken, and this bone, ſay they, at the laſt day ſhall be mollified and ſoftned by a dew from heaven, and it ſhall ſwell, as having the nature of Leven, and it ſhall diffuſe its vertue to the collecting of all the duſt that belongs to its own body, and ſo fit and prepare it for a reſurrection. I ſhall not be ſo audacious as to paſſe a definitive ſentence, or po<g ref="char:EOLhyphen"/>ſitively to determine how this (to humane reaſon) incredible reſurgation, is effected; I had rather make
+<pb n="4" facs="tcp:46281:15"/> 
+                        <hi>Ezekiel</hi> my Oracle who gives the manner how thus,
+<q>he ſhal breath upon the ſlain, and they ſhal live.</q> Authors of unqueſtionable repute and dayly experience, informs us, that the juyce of herbs and minerals extract, are of ſufficient force to reſtore ſick perſons, <hi>Apio</hi> the Gramarian <hi>(Pliny na hiſt)</hi> by the power of <hi>Cinocephalia</hi> revived <hi>Homer;</hi> how facile then may we conclude it, for the ſu<g ref="char:EOLhyphen"/>pream Architector and Gubernator of the earth, by his word alone, to actuate an univerſal reſur<g ref="char:EOLhyphen"/>rection; and that though the bodies of all man<g ref="char:EOLhyphen"/>kind were crumbled into duſt, and that duſt ſcatte<g ref="char:EOLhyphen"/>red before the wind; or were they diſtilled into water, attenuated into ayr, or though they were ea<g ref="char:EOLhyphen"/>ten by Canibals, and thoſe Canibals devoured by fiſhes, and thoſe fiſhes by men again; I ſay, though they had all theſe diſperſions, and alterations, and tranſmigrations, yet were they ſtill in the ſtore<g ref="char:EOLhyphen"/>houſe of a powerfull God, to whom the whole world is but as one repoſitory, or larger cabinet, and all the elements but ſeverall drawers in that great frame, and thoſe leſſer creatures, the craws of Ravens, bellies of fiſhes, and intrails of beaſts, but as ſmaller boxes included in the greater, ſo that whereſoever we ſhall be laid God will know where to find us; though our bodies may be hid to ſenſe, yet they are not loſt to him: he that called us at firſt out of nothing, can by the ſame mighty voice raiſe us again from nothing.</p>
+                  </div>
+                  <div n="4" type="section">
+                     <pb n="5" facs="tcp:46281:15"/>
+                     <head>SECT. IIII. </head>
+                     <argument>
+                        <p>
+                           <hi>Yet of the ſame.</hi>
+                        </p>
+                     </argument>
+                     <p>The Jewiſh Rabbins tell us of three keys that God keepeth always in his own hands, the <hi>Key of the Womb,</hi> whereby he lets us into this life; the <hi>Key of the Clouds,</hi> by which he nouriſheth, and refreſheth us with rain; and the <hi>Key of the Re<g ref="char:EOLhyphen"/>ſurrection,</hi> by which he loſeth us from the priſons of death, and gives us entrance into a new life. I willingly grant the <hi>Key of the Reſurrection,</hi> to be in Gods power onely; for Chriſt is that key <hi>Clavis Reſurrection is</hi> (as <hi>Tertullian</hi> calls him) he ſhall open and bring us out of our graves, as the Prophet <hi>Ezekiel</hi> ſpeaks, The wiſer ſort of heathens believed a reſurrection, and a reſtitution of our bodies, but then they thought the ſtars and the Planets (by whoſe decay and continuance they meaſured the ſtability and perpetuity of all ſub<g ref="char:EOLhyphen"/>lunary things) to be the onely cauſes of it; and ſo they ran giddily into <hi>Platos</hi> circulation of years.</p>
+                  </div>
+               </div>
+               <div n="2" type="chapter">
+                  <head>CAAP. II. </head>
+                  <argument>
+                     <p>
+                        <hi>That we cannot conſcienciouſly cenſure the ancient Heathen Sages as damned.</hi>
+                     </p>
+                  </argument>
+                  <p>NOt onely <hi>St. Chriſoſtome,</hi> but many other of the fathers, have ſet open a dore for <hi>So<g ref="char:EOLhyphen"/>crates,</hi>
+                     <pb n="6" facs="tcp:46281:16"/> 
+                     <hi>Ariſtotle,</hi> &amp;c. to enter into heaven by Philoſophy alone, and <hi>Cauſabon</hi> in his <hi>animad<g ref="char:EOLhyphen"/>verſions</hi> upon <hi>Baronius</hi> ſaith, that thoſe places in the fathers, which ſeem to look that way, are <hi>can<g ref="char:EOLhyphen"/>dida interpretatione mollienda,</hi> to find a favora<g ref="char:EOLhyphen"/>ble interpretation with us, ſince it were not pious in us to improve an uncharitable opinion of them, for their (perhaps) over charitable opinion of the heathen.</p>
+                  <p>As I dare not therefore (with <hi>Iuſtin Martyr)</hi> rank <hi>Socrates,</hi> and <hi>Heraclitus</hi> in heaven, and as I cannot think <hi>Aristotle</hi> by writing his books <hi>de Coelo,</hi> hath himſelf gained a place there; ſo nei<g ref="char:EOLhyphen"/>ther dare I paſſe the ſentence of eternal damnati<g ref="char:EOLhyphen"/>on upon them, it were ſacriledge in any man to rob them of Gods mercy, which is over all his works; and who is he that ſhall preſume to ſet bounds to the overflowing Ocean of his com<g ref="char:EOLhyphen"/>paſſion, to ſay unto it, thus far ſhalt thou go and no further; for might not God, for ought we know, reveal unto them this ſaving knowledge of Chriſt, in <hi>articulo mortis,</hi> at the laſt gaſp, and when their own ſpirit was parting from them, breath his holy ſpirit into them: thoſe places of Scripture, wherein mention is made of our Savi<g ref="char:EOLhyphen"/>ours ſpoiling of hell, and leading captivity cap<g ref="char:EOLhyphen"/>tive, may (perhaps) be underſtood of his pow<g ref="char:EOLhyphen"/>erfull and mercifull delivering, of ſome of the
+<pb n="7" facs="tcp:46281:16"/> ſouls of vertuous Pagans, as of Philoſophers, Law-givers, Governours, Kings, and other pri<g ref="char:EOLhyphen"/>vate perſons, renowned for their wiſedome, pru<g ref="char:EOLhyphen"/>dence, fortitude, temperance, bounty, chaſtity, mercy, and generally for their civill carriage, and moral converſation, ſuch as were <hi>Hermes, Zoro<g ref="char:EOLhyphen"/>aſtes</hi> (however calumniated) <hi>Socrates, Homer, Plato, Ariſtotle, Plotinus, Pythagoras, Phocil<g ref="char:EOLhyphen"/>lides, Theognes, Epictetus, Cicero, Hercules, Theſeus, Cyrus, Solon, Lycurgus,</hi> &amp;c.</p>
+                  <div n="2" type="section">
+                     <head>Sect. II. </head>
+                     <argument>
+                        <p>
+                           <hi>That a wiſe man onely is capable of mirth.</hi>
+                        </p>
+                     </argument>
+                     <p>The Stoicks) among many other excellent con<g ref="char:EOLhyphen"/>templations) in the diſcourſe of joy, came the nea<g ref="char:EOLhyphen"/>reſt unto divine truth, when they put a main and reall difference, between <hi>Letari &amp; Gaudere,</hi> mirth and joy the former is a light and toyiſh paſſion, skipping in wanton manner up into the face, the latrer a continual exultation of the ſoul in the en<g ref="char:EOLhyphen"/>joyment of ſome excellency; mirth is a ſudden or ſhort fit raiſed by ſome pleaſant or ridiculous ac<g ref="char:EOLhyphen"/>cident, joy is a ſetled content, and conſtant de<g ref="char:EOLhyphen"/>light, by the preſence of poſſeſſed good; mirth is ever in the ſenſuall appetite, joy is onely in the ſoul and will: from which inference they drew
+<pb n="8" facs="tcp:46281:17"/> that admirable Paradox (ſcoft at by other Phylo<g ref="char:EOLhyphen"/>ſophers) That a wiſe man onely rejoyceth truly, though a fool be alwaies more merry. For which St. <hi>Auguſtine</hi> found warrant in Scripture, <hi>non est gaudium impijs,</hi> the wicked can never cordi<g ref="char:EOLhyphen"/>ally rejoyce, and he ads the reaſon, <hi>quia effundun<g ref="char:EOLhyphen"/>tur,</hi> &amp;c. becauſe they are ever reſtleſs ever wan<g ref="char:EOLhyphen"/>dring from themſelves; for it is impoſſible to find thoſe effects of true joy, ſatiety, equality, and con<g ref="char:EOLhyphen"/>tinuance any where elſe, but in the object of per<g ref="char:EOLhyphen"/>fect goodneſs; which becauſe no place can afford but heaven, there muſt this joy be, and no where elſe.</p>
+                  </div>
+                  <div n="3" type="section">
+                     <head>Sect. III. </head>
+                     <argument>
+                        <p>
+                           <hi>How the Angels may be ſaid to rejoice, and the manner of their exultation in Heaven.</hi>
+                        </p>
+                     </argument>
+                     <p>The joy of the Angels (whom our Saviour po<g ref="char:EOLhyphen"/>ſitively affirms to be capable of rejoycing) is either eſſential or accidental, either in habit or in act; their eſſential joy is moſt perfect, eternal without change, without cauſe of increaſe or addition, for they behold the preſence of God in righteouſneſs, and are ſatisfied. <hi>Pſal.</hi> 16. 12, and again ſatisfi<g ref="char:EOLhyphen"/>ed by reflex and meditation, on the ſtate of their own happineſs, and yet ſatisfied again and again,
+<pb n="9" facs="tcp:46281:17"/> 
+                        <hi>in ebriatie ſunt ab ubertate donius ejus</hi> (ſaith the Pſalmiſt) <hi>&amp; torrente voluptatis ſue potavit eos,</hi> but their accidental joy that is continually in<g ref="char:EOLhyphen"/>creaſed by the marvellous effects which God dai<g ref="char:EOLhyphen"/>ly worketh here in the Church below, their knowledge doth kindle their joy anew, not by adding more fewel, but increaſing more flame; the habit of joy in the Angels is the ſame, inceſ<g ref="char:EOLhyphen"/>ſant, immutable, <hi>&amp;c,</hi> but the act is increaſed ac<g ref="char:EOLhyphen"/>cording as it ſhall pleaſe the moſt high to impart the meaſure and preſent the object, and that (doubtleſs) he doth moſt freely to all the Angels.</p>
+                  </div>
+                  <div n="4" type="section">
+                     <head>SECT. IIII. </head>
+                     <argument>
+                        <p>
+                           <hi>The vanity of all things tereſtial;</hi> Solo<g ref="char:EOLhyphen"/>mon, <hi>a true and competent judge of mundane pleaſures, and none elſe.</hi>
+                        </p>
+                     </argument>
+                     <p>In the rule of contrarieties,
+<q>as the folly that) comes from wiſedome is moſt foul, ſo the wiſe<g ref="char:EOLhyphen"/>dom ſprung from folly ſhould be the greateſt.</q> It was the wiſedome of folly which occaſioned <hi>So<g ref="char:EOLhyphen"/>lamons</hi> Eccleſiaſtes, it was written by the Prea<g ref="char:EOLhyphen"/>cher, and who could more thorowly make experience of the divers kinds of pleaſures and multiplicities of vanities, then a rich com<g ref="char:EOLhyphen"/>manding Monarch; <hi>Solomon</hi> ſayled about the whole world of vanities, others had diſcovered
+<pb n="10" facs="tcp:46281:18"/> onely ſome few nooks and bays; God ſuffered him to run through them a time, till being recal<g ref="char:EOLhyphen"/>led he might more fully inſtill this inſtruction of wiſedome, Vanity of vanities, all is vanity.</p>
+                  </div>
+                  <div n="5" type="section">
+                     <head>SECT. V. </head>
+                     <argument>
+                        <p>
+                           <hi>That the world was already in Gods de<g ref="char:EOLhyphen"/>cree myriads of years before its crea<g ref="char:EOLhyphen"/>ation.</hi>
+                        </p>
+                     </argument>
+                     <p>
+                        <hi>Titus,</hi> 1. 2. the Apoſtle ſpeaks of eternal life which God promiſed before the world began: ſome men may perhaps wonder how that could be, when men were not to whom eternall life was to be given? the anſwer (therefore) muſt be that this promiſe or covenant which God made with his ſon, and with us in him from eternity, is here meant; all the promiſes of the new Teſtament are but copies of this original covenant made be<g ref="char:EOLhyphen"/>fore the world began, and this is the ground of that ſpoken, <hi>Proverbs,</hi> 8. 13. <hi>before the moun<g ref="char:EOLhyphen"/>tains were brought forth he rejoyced in the ha<g ref="char:EOLhyphen"/>bitable parts of the world, and his delight was in the ſons of men,</hi>
+                     </p>
+                  </div>
+                  <div n="6" type="section">
+                     <head>SECT. VI. </head>
+                     <argument>
+                        <p>
+                           <hi>How many diſeaſes are incident to the body of man, a parallel of the infirmi<g ref="char:EOLhyphen"/>ties</hi>
+                           <pb n="11" facs="tcp:46281:18"/> 
+                           <hi>of the body with thoſe of the ſoul.</hi>
+                        </p>
+                     </argument>
+                     <p>The body of man is but a weak ſconce, <note place="margin">Of the body of man.</note> a ſlight earthwork not above ſix foot high, thrown upin an inſtant, &amp; will in a ſhort time (if let alone) moulder away of it ſelf, and yet a wonder it is to ſee what a number of enemies beleager it on all ſides, how many diſeaſes and infirmities it is ſubject too. If we look into the muſter roles, I mean the Phyſitians books, we ſhall find them upon Tally no leſſe then 6000, ſo many diſeaſes is the body ſubject to: and the ſoul is incident to as many if not more. Now per<g ref="char:EOLhyphen"/>haps we are ſwelled with a Tympany of pride, anon inflamed with a Feaver of loſt, by and by beſotted with a Dropſie of drunkenneſſe, after that with a Lethargy of ſloth, and then again we pine with a Conſumption of envy and malice; Al<g ref="char:EOLhyphen"/>mighty God therefore, hath left us his word the holy Scriptures, &amp; appointed us the writings, ſen<g ref="char:EOLhyphen"/>tences, and axiomes of the holy Councels, fathers, confeſſours, and martyrs, like an Apothecaries ſhop (as St. <hi>Baſil</hi> ſpeaks) whence in every chap<g ref="char:EOLhyphen"/>ter, in every tract, and in every line, as on ſo ma<g ref="char:EOLhyphen"/>ny ſhelves, and in ſo many boxes, there are ſtore of preſervatives and remedies.</p>
+                  </div>
+               </div>
+               <div n="3" type="chapter">
+                  <pb n="12" facs="tcp:46281:19"/>
+                  <head>CHAP. III. </head>
+                  <argument>
+                     <p>
+                        <hi>The Luxuriouſneſſe of the preſent Age: Hiſtory of</hi> Cyrus: Muſeus <hi>his mad o<g ref="char:EOLhyphen"/>pinion:</hi> Procopius <hi>his reaſon why</hi> Sampſon <hi>was injoyned not to drink wine: Remarkable ſtory of a Monk: Rules againſt Ryot.</hi>
+                     </p>
+                  </argument>
+                  <p>IF there were ever a time when it was requiſite to inveigh againſt gluttony &amp; drunkenneſs, cer<g ref="char:EOLhyphen"/>tainly it is now; for the older the world grows the more doth ſingrow upon it, it improves it ſelf dai<g ref="char:EOLhyphen"/>ly: where ſhal we now (eſpecially in this our Bo<g ref="char:EOLhyphen"/>rean clime) hear of a <hi>Macarius</hi> that hath not ta<g ref="char:EOLhyphen"/>ken his fill of meat or ſleep 20 years? or of ſuch holy men as St. <hi>Hierom</hi> ſpeaks of, that can be content to live with barley bread and muddle water for a long time, when they might dayly have fed on dainties? or of an <hi>Hillarion,</hi> ſuch an one as the Eccleſiaſtiacal hiſtory tells us of, that would threaten his body with a <hi>Domabo te</hi> &amp;c. when he found him beginning to be provender pricked? ſuch rare examples of abſtinence and ſo<g ref="char:EOLhyphen"/>briety the primitive time afforded ſtore of.</p>
+                  <p>Now rather on the contrary, we never think we have proviſions ſtore enough, unleſſe our Kit<g ref="char:EOLhyphen"/>chins
+<pb n="13" facs="tcp:46281:19"/> may vie with <hi>Noah</hi>'s Ark for varicty, and and our Table-cloaths with St. <hi>Peters</hi> ſheet <hi>Vi<g ref="char:EOLhyphen"/>tellius</hi> board, that was furniſhed at one Feaſt with 2000. Fiſh, and twice as many Fowl, may be ſurpaſſed by ſome of our <hi>(Weſtminster)</hi> bils of fare, if not for variety, yet expence and coſtli<g ref="char:EOLhyphen"/>neſſe; and if at any time exceedings in this kind might be permitted, leaſt of all at this time, the time of war, when widdows weep over the dead bodles of their murrhered husbands, and orphans crying for bread are fed with ſtones: but theſe Swine conſider not that penury, ſcarcity and want are ever the companions of war; if that lead up the Van, famine ever follows in the Rear; and indeed what other can be expected, when the plough-ſhare is turned into a ſword, and the pru<g ref="char:EOLhyphen"/>ning hook into a battel-axe, but empty barns, and lean bellies?</p>
+                  <p>When <hi>Cyrus</hi> the Perſian Monarch entred with his Army the Countrey of the Ama<g ref="char:EOLhyphen"/>zons, and <hi>Thomiris</hi> their Queen with a great Army drew up towards him to give him battel, he cauſed throughout his Gampe tables to be ſpread, well furniſhed with ſtore of meats, and feigns a ſudden flight (hearing of the enemis ap<g ref="char:EOLhyphen"/>proach) leaving all his proviſions behind him; the Amazons upon this drew up to the place, and finding the enemies gone, preſently fell to ea<g ref="char:EOLhyphen"/>ting
+<pb n="14" facs="tcp:46281:20"/> and rioting with what they found, till being full fed, and night comming on, ſlept as ſecurely and ſoundly as they had eat before; <hi>Cyrus</hi> in the dead of night drew forth his men from a neigh<g ref="char:EOLhyphen"/>bouring wood, where they were hid before, fell upon the Amazons in this ſecurity, and utterly defeated the whole army. How eaſily we are ta<g ref="char:EOLhyphen"/>ken with the pleaſure of our palate and how dan<g ref="char:EOLhyphen"/>gerous they have proved, we may ſee in our firſt parents <hi>Adam</hi> and <hi>Eve,</hi> the firſt motive that drew the woman to diſobedience to Gods com<g ref="char:EOLhyphen"/>mand, was, that the tree was good for ſood; her appetite betrayed her ſoul, and engaged all her poſterity to perpetual guilt. Afterwards in the ho<g ref="char:EOLhyphen"/>ly ſeed, we find an <hi>Iſaac</hi> apt to miſ-place a bleſ<g ref="char:EOLhyphen"/>ſing for a piece of Veniſon, and his ſon ſelling his Birthright for a meſle of broth. <hi>Seneca</hi> hath told us upon experience, that <hi>Multos morbos multa fecerunt ſercola,</hi>
+                     <q>multiplicity of Diſhes cauſe multiplicity of Diſeaſes.</q>And a greater Philo<g ref="char:EOLhyphen"/>ſopher then he could ſet down, that
+<q> Sickneſſes and Infirmities are the natural iſſues of great entertainments;</q> and it is too well known, that Feaſts have ever been accounted the Phyſitians beſt Friends. <hi>More die of eating then fighting: the bellie killeth more the bullet.</hi>
+                  </p>
+                  <p>To this purpoſe, it is wittily ſaid in the Italian Proverb, <hi>that the Glutton diggeth his</hi>
+                     <pb n="15" facs="tcp:46281:20"/> 
+                     <hi>grave with his own teeth, is guilty of his own death, &amp; cuts his throat with his knife;</hi> our food is our Kitchin-phyſick given us by God to take every day a competency to keep us alive; let us uſe it then as Phyſick, moderately, left our Phy<g ref="char:EOLhyphen"/>ſick prove our bane, and we be poyſoned by our preſervative. Rioting and Drunkenneſs was once reputed the national ſin of <hi>Germany</hi> onely, but if we hold on as we have of late years continued, they are like to loſe their Charter, we out go them in their profeſſion: the word <hi>Carowſe</hi> we ſpeak now as naturally as they, and it paſſes for as good Engliſh as ever it was Dutch; it hath made a deluge, and overflowed our whole Land, and yet I cannot ſee why men ſhould ſo univerſally fall in love with it, and ſo eagerly purſue it, unleſs they were poſſeſſed with the mad opinion <hi>Mu<g ref="char:EOLhyphen"/>ſaeus</hi> the Poet was once, who thought, <hi>the onely fit reward of Vertue to be perpetual Drunken<g ref="char:EOLhyphen"/>neſſe.</hi>
+                  </p>
+                  <p>
+                     <hi>Procopius</hi> makes the queſtion why <hi>Sampſen</hi> had ſo ſtrict a charge laid on him not to drink wine nor ſtrong drink, nor ony thing that came of the Vine, and he gives this reaſon for it; <hi>Be<g ref="char:EOLhyphen"/>cauſe</hi> (ſaith he) <hi>the Holy Ghoſt knew the natu<g ref="char:EOLhyphen"/>ral tempter of</hi> Sampſon <hi>to be ſo fierce and violent, that if he ſhould at any time enflame it with wine, it might do much miſchief to his own peo<g ref="char:EOLhyphen"/>ple</hi>
+                     <pb n="16" facs="tcp:46281:21"/> 
+                     <hi>and friends as well as his foes:</hi> And ſo St. <hi>Chryſostome</hi> obſerves in his 26 Sermon, that the unruly ſervant that beat and wounded his fel<g ref="char:EOLhyphen"/>lows, <hi>Luke</hi> 13. 45. is ſaid to have eat and drank, and to be drunken; and from thence the Father notes, that Drunkenneſſe is the mother of Quar<g ref="char:EOLhyphen"/>rels, ſuch Frays uſually ending in bloudſhed.</p>
+                  <p>To this purpoſe, I have read a ſtory;
+<q>
+                        <hi>A</hi> Monk whom the Devil had often tryed, and could never faſten any thing
+<note place="margin">The Story of a Monk tampted by the De<g ref="char:EOLhyphen"/>vil.</note> upon him, at laſt told him, if he would yeeld but to one vice (and he ſhould take his choice of three) that he would never aſſaile him more; upon this he yeelded, and of the three that were propoſed, <hi>viz.</hi> Murther, Adultery, and Drunkenneſſe, as thinking to chuſe <hi>ex malis minimum,</hi> the leſſer evil of the three, he was content for once to ouer drink himſelf: but when he was drunk, he preſently luſted af<g ref="char:EOLhyphen"/>ter his neighbours wife, and her husband com<g ref="char:EOLhyphen"/>ming in, in rage that he was diſcovered, ran to him and ſtabbed him, and ſo in the higheſt de<g ref="char:EOLhyphen"/>gree became guilty of all.</q>
+                  </p>
+                  <p>
+                     <hi>Socrates</hi> paſſing by a houſe where he knew a frequent Reveller had lived, and finding it empty, burſt out into theſe words, <hi>I ever thought</hi> (ſaid he) <hi>that this houſe, always accustomed to ſo</hi>
+                     <pb n="17" facs="tcp:46281:21"/> 
+                     <hi>much drinking would at length ſpew out its owner.</hi>
+                  </p>
+                  <p>Saint <hi>Baſil</hi> in a Homily of his bemoans a vali<g ref="char:EOLhyphen"/>ant ſouldier and a brave comander in thoſe days, that he ſaw overcome with drink: <hi>Miſerum oculis ſpectaculum</hi> (ſays he) <hi>qui terribilis hoſti<g ref="char:EOLhyphen"/>bus fuerit,</hi> &amp;c. it is a miſerable ſight, a lamenta<g ref="char:EOLhyphen"/>ble caſe to ſee ſuch a man when drunk made a laughing ſtock by boys &amp; children in the ſtreet, who when he is freſh would ſtrike terrour into his ſtouteſt foe.</p>
+                  <p>It is a vile and pernicious ſin in any (I ſpeak it with ſhame and ſorrow having my ſelf been too guilty of ebriety) but more inexcuſable in a ſoul<g ref="char:EOLhyphen"/>dier, but moſt of all in a Commander, for how can he have any comand upon others, that hath none over himſelf, if a Governour be too good a fellow every one will look to be <hi>Tiberius Mero.</hi>
+                  </p>
+                  <p>
+                     <hi>Mahomet</hi> in his Alchoran to fright his Turks from drinking of wine, ts them, tels them that in every grape there is lodged a Divel. St. <hi>Au<g ref="char:EOLhyphen"/>guſtine</hi> in his confeſſions tels us a paſſage of his mother <hi>Monicha,</hi> that being by her maid ſervant once upbrayded and twitted to her face for bib<g ref="char:EOLhyphen"/>bing of wine, which ſhe did rather out of curioſi<g ref="char:EOLhyphen"/>ty then pleaſure, upon that taunt or reprehenſion of her fervant, took up a reſolution never to drink drop of wine more, which ſhe kept to her dying day.</p>
+               </div>
+               <div n="4" type="chapter">
+                  <pb n="18" facs="tcp:46281:22"/>
+                  <head>CHAP. IIII. </head>
+                  <argument>
+                     <p>
+                        <hi>Of dancing and kiſſing the lawfulneſse thereof.</hi>
+                     </p>
+                  </argument>
+                  <p>THough I am as much againſt the abuſe of this as any man, yet no man I think that hath read the Scripture, can conclude either of theſe, kiſſing or dancing, ſimply and abſolutely in them<g ref="char:EOLhyphen"/>ſelves unlawfull.</p>
+                  <p>For, for the one St. <hi>Paul</hi> often woos his friends to ſalute one another with a holy kiſſe, and it was frequently uſed all along in the primitive times, as St. <hi>Auguſtine</hi> tells us, <hi>in reconciliatio<g ref="char:EOLhyphen"/>nis charitas laetitia &amp; catholicae veritatis ſig<g ref="char:EOLhyphen"/>num,</hi> as a teſtimony of reconcilement of our charity and love, of our joy at a meeting after long abſence, and of our unity in religion.</p>
+                  <p>And for dancing, if we uſe it moderately for exerciſe, <hi>&amp;c.</hi> there is no fault nor danger in it, though I know it is accounted by ſome of our ſtraight laced brethren in its beſt intention, no better then the Divels proceſſion, as they call it, but unbyaſſed perſons know, that many holy men and women practiſed it in ſcripture without re<g ref="char:EOLhyphen"/>proof, <hi>Solomon</hi> allows us a time for it, <hi>there is a time to dance,</hi> ſaith he, <hi>Eccle.</hi> 3. nay King <hi>Da<g ref="char:EOLhyphen"/>vid</hi> ſays, <hi>we may praiſe God in a dance,</hi> 149. <hi>Pſalm.</hi>
+                  </p>
+                  <div n="2" type="section">
+                     <pb n="19" facs="tcp:46281:22"/>
+                     <head>Sect. II. </head>
+                     <argument>
+                        <p>
+                           <hi>Of idleneſſe the danger thereof: St.</hi> An<g ref="char:EOLhyphen"/>thonies <hi>Axiome: and</hi> Theodorets <hi>ex<g ref="char:EOLhyphen"/>poſition on</hi> Gen. 1.</p>
+                     </argument>
+                     <p>Idleneſſe is the high road to luſt, it is <hi>pulvinar libidinis</hi> (as St. <hi>Hie<g ref="char:EOLhyphen"/>rome</hi> 
+                        <note place="margin">Of Idle<g ref="char:EOLhyphen"/>neſſe.</note> calls it) the pillow whereon the unclean ſpirit delights to reſt him, and wantonneſſe never thrives ſo kindly, nor takes root ſo deeply as in a field that lieth fallow. King <hi>David</hi> riſing from his afternoons nap, walking idlely on his Tarras immediately fell into Adul<g ref="char:EOLhyphen"/>tery with <hi>Vriahs wiſe,</hi> luſt having never ſo great an advantage over us, as when it finds us ſitting ſtill, or doing nothing; <hi>Cupid</hi> may more eaſily hit us then, then when we are in motion.</p>
+                     <q>Otia ſi tollas periere Cupidinis Arcus.</q>
+                     <q>
+                        <l>Take away Idleneſſe, and never doubt</l>
+                        <l>But Cupids bow breaks, all his lamps go out.</l> 
+                     </q>
+                     <p>Labour is Loves ſtrongeſt antidote ſo that it is ridiculous for a ſlothfull lazie man to ſay, if he commit fully, that he was enticed and tempted by the Devils ſuggeſtion, or the allurements of
+<pb n="20" facs="tcp:46281:23"/> the fleſh, he is rather the Devils tempter then the Devil his, and doth
+<note place="margin">A ſloth full man the De<g ref="char:EOLhyphen"/>vils Temp<g ref="char:EOLhyphen"/>ter.</note> as much as in him lies tempt a Temptation to ſeize upon him. Idle<g ref="char:EOLhyphen"/>neſs (ſaith the wiſe ſon of <hi>Sirach)</hi> teacheth much evil. And therefore S. <hi>Anthony</hi> was wont to ſay. <hi>He had never ſo much need of good mens prayers for</hi> 
+                        <note place="margin">A remarka<g ref="char:EOLhyphen"/>ble ſaying of St. An<g ref="char:EOLhyphen"/>thonies.</note> 
+                        <hi>him, as when he was going about nothing.</hi> And <hi>Theodoret</hi> raiſing a Quere in his queſtions upon <hi>Gene<g ref="char:EOLhyphen"/>ſis,</hi> why God ſhould ſanctifie and hallow the ſe<g ref="char:EOLhyphen"/>venth day onely, and not any other of the ſix working days, amongſt other reaſons he gives this for one;
+<q>It was (ſaith he) to intimate unto us, that the ſe<g ref="char:EOLhyphen"/>venth <note place="margin">Theodorets o<g ref="char:EOLhyphen"/>pinion why God ſanctifi<g ref="char:EOLhyphen"/>ed the ſe<g ref="char:EOLhyphen"/>venth day.</note> day being a day wherein we are to ſit ſtill, and not labor, was a day whereon we were more ſubject and liable to temp<g ref="char:EOLhyphen"/>tation then on other days, and ſo that day in more danger of prophanation then any work<g ref="char:EOLhyphen"/>ing day, and ſo had more need of a more ſpe<g ref="char:EOLhyphen"/>cial benediction then the reſt, from him that is Lord of all days.</q>
+                     </p>
+                  </div>
+                  <div n="3" type="section">
+                     <head>SECT, III. </head>
+                     <argument>
+                        <p>
+                           <hi>The Eye, the grand Incendiary to Luſt;</hi>
+                           <pb n="21" facs="tcp:46281:23"/> Eliah<hi>'s flight;</hi> Alexanders <hi>continence;</hi> Zeleucus <hi>his Law explained;</hi> Num<g ref="char:EOLhyphen"/>bers 15. 39. <hi>explicated.</hi>
+                        </p>
+                     </argument>
+                     <p>The eye if it be fixed long on a beautifull ob<g ref="char:EOLhyphen"/>ject, like a burning glaſſe collects the rays of it ſo ſtrongly, that it ſets the ſoul on fire with the flames of Luſt. St. <hi>Ambroſe</hi> in his Tract <hi>De fuga ſaeculi,</hi> obſerves, that <hi>The Prophet</hi> Eliah <hi>feared not to meet &amp; ſpeak face to face with cruel</hi> Ahab, 1 Kin. 18. 2. <hi>but fled from the face of</hi> Jezabel. And the Father ſaith there, <hi>It was for fear leſt by the ſight of ſuch a tempting woman his eye might convey ſome looſe thoughti into his heart.</hi>
+                     </p>
+                     <p>And to prevent this treachery of the eye, <hi>A<g ref="char:EOLhyphen"/>lexander</hi> the Great (as <hi>Plutarch</hi> relates) when he had conquered <hi>Perſia,</hi> would not by any per<g ref="char:EOLhyphen"/>ſwaſions be drawn to look upon the beautifull daughters of <hi>Darius,</hi> leſt after his conqueſt over ſo many men, he ſhould be brought into the ſlavery of a woman by his own luſt. If the eye be full of adultery, the heart will not be long empty: <hi>Mors intrat per feneſtras,</hi> this way, by the windows of the eye ſin entred into the world, and by ſin, death. <hi>Eve</hi> firſt ſaw the forbidden fruit that it was beautifull, pleaſant, and good for food, and then her deſire was tempted to eat of it; When David ſaw <hi>Vriah</hi>'s wife, he was
+<pb n="22" facs="tcp:46281:24"/> but one ſtep from the enjoying her.</p>
+                     <p>And upon this ground was it that <hi>Zelencus</hi> made his Law, That Adulterers ſhould loſe both their eys, that having loſt their <note place="margin">Zeleu<g ref="char:EOLhyphen"/>cus his Law.</note> ſight, they might for the future the bet<g ref="char:EOLhyphen"/>ter keep their chaſtity; or rather to ſhew, that ſince the eye of any of the bodies members is the firſt incendiary to luſt, and the chiefeſt Pander to uncleanneſs, that that ſhould be firſt in the puniſhment, that was both firſt and chiefeſt in the fault.</p>
+                     <p>Almighty God therefore took a care of the Iſ<g ref="char:EOLhyphen"/>raelites that they ſhould have embroydered Frin<g ref="char:EOLhyphen"/>ges on their garments to fix their wandring eys on, that they might not gaze and ſtare about, in <hi>Numb.</hi> 15. the reaſon is ſet down in theſe ex<g ref="char:EOLhyphen"/>preſs words, <hi>v.</hi> 39. <hi>That you ſeek not after your own eys, after which you go a whoring.</hi>
+                     </p>
+                  </div>
+                  <div n="4" type="section">
+                     <head>SECT. IIII. </head>
+                     <argument>
+                        <p>
+                           <hi>Obſcean talk obnoxius; that it is poſſible for an Authour to write laſciviouſly, yet live temperately.</hi>
+                        </p>
+                     </argument>
+                     <p>The miſchief of wanton talk we have a good (Embleme of in <hi>Venus</hi> birds the Doves, which ſome Naturaliſts ſay engender at their mouths; it is a ſign the pot is hot within if there come ſuch
+<pb n="23" facs="tcp:46281:24"/> ſteams from it, the tongue ſpeaks not but from the abundance of the heart; let the Poet plead in deſence of his looſe verſes, of his ribald talk, or his reading or ſinging laſcivious ſongs, and vainly think his life nevertheleſs may be thought modeſt, he will find but few to beleeve him, he ſhall ne<g ref="char:EOLhyphen"/>ver perſwade the world but that they muſt needs be ulcered Lungs from whence comes ſuch putrid Spittle: Yet I dare not conclude it impoſſible (for in ſo doing I ſhould ſin againſt the clear and deſtinate light of knowledge, and my own experi<g ref="char:EOLhyphen"/>ence) that a Poet may write laſciviouſly (and that at the height) and yet his thoughts remain ſpotleſs, and his actions proclaim him truly chaſt; ſo exactly can man play the <hi>Pretens,</hi> and ſo fa<g ref="char:EOLhyphen"/>cilcly practiſe a diſguiſe.</p>
+                  </div>
+               </div>
+               <div n="5" type="chapter">
+                  <head>CHAP. V. </head>
+                  <argument>
+                     <p>
+                        <hi>Pride in whom, and how far tollerable; the plainneſs of the</hi> Spartan <hi>women,</hi> &amp;c.</p>
+                  </argument>
+                  <p>IF <hi>Lot</hi> will avoid the ſin of <hi>Sodom</hi> he muſt not depart from the City onely, but the Region round about it too, the over curious dreſling and adorning the body, when we rake our brains and wrack our wits, and grow old in the ſearch of a new faſhion, the pleating the hair, and painting the face, as it were laying an ambuſh in our locks
+<pb n="24" facs="tcp:46281:25"/> to catch our lovers, are but as ſo many baits for luſt to nibble at, in women ſcarce tollerable, in men monſtrous, or although we grant this in ei<g ref="char:EOLhyphen"/>ther ſex, but a ſin of the leſſer ſize, yet a raiſin ſtone or a hair may choak as well as a bone, and a young thief may creep in at a window &amp; open the dore for ſturdier rogues to rob the houſe, it is dangerous anchoring near a Rocky ſhore, and no ſafe riding by the brink of a downfall. <hi>Ioſeph</hi> therefore fled from his miſtreſs, and left his gar<g ref="char:EOLhyphen"/>ment behind him; but why did he leave his gar<g ref="char:EOLhyphen"/>ment in her hand, and did not rather, being in all likelihood ſtronger then a weak and wanton woman, extort and force it from her? <hi>Oh</hi> (ſaith St. <hi>Ambroſe) if he had come ſo near as to have ſtrove with her or touched her, he might perhaps have gained his coat, but he had been in danger to have lost his innocency:</hi> 'tis ſtoried of S. <hi>An<g ref="char:EOLhyphen"/>thony</hi> that he the better to preſerve his chaſtity, would never endure ſo much as to ſee himſelf na<g ref="char:EOLhyphen"/>ked: in <hi>Sparta</hi> there was no uncleanneſs or adul<g ref="char:EOLhyphen"/>tery committed, and the reaſon is given by the Hiſtorian, that in <hi>Lyourgus</hi> his time women were limited to a plain and homely attire, <hi>&amp;c. Seneca</hi> obſerves, that luſt is eaſier kept out, then caſt out; gay attire is at beſt but the bawd to <hi>Ve<g ref="char:EOLhyphen"/>nus,</hi> and therefore the way to be ſure not to come into the houſe is to reſolve never to ſet foot over the threſhold.</p>
+                  <div n="2" type="section">
+                     <pb n="25" facs="tcp:46281:25"/>
+                     <head>SECT. II. </head>
+                     <argument>
+                        <p>
+                           <hi>Yet of the ſame; the ſtory of</hi> Dambo <hi>the devout Hermit.</hi>
+                        </p>
+                     </argument>
+                     <p>I have read that once when the Capitoll was beſieged, the Roman women for a ſhift took their own hair, and made ſtrings for the mens croſſe<g ref="char:EOLhyphen"/>bows; I would the lovely females of our time would put their hair to no worſe imployment, by curling and brayding it, ſo that us fit for no<g ref="char:EOLhyphen"/>thing but to make ſtrings for <hi>Cupids</hi> bow.</p>
+                     <p>It is recorded in the Tripartite hiſtory of one <hi>Dambo</hi> an Hermite, who being ſent for by <hi>A<g ref="char:EOLhyphen"/>thanaſius</hi> to Alexandria, comming from the wil<g ref="char:EOLhyphen"/>derneſſe where he had long lived, and entring in<g ref="char:EOLhyphen"/>to the City, he eſpied a woman paſſe by him in a very ſpruce and wanton dreſſe; the good man fell preſently a weeping, and being asked the rea<g ref="char:EOLhyphen"/>ſon, he ſaid, he wept for two things;
+<q> firſt for the danger that womans ſoul was in; ſecondly for himſelf, what a vile wretch he had ever been, that never uſed ſo much care and diligence to pleaſe his God, as that woman did dayly to pleaſe her wanton lovers.</q>
+                     </p>
+                  </div>
+                  <div n="3" type="section">
+                     <head>SECT. III. </head>
+                     <argument>
+                        <p>
+                           <hi>The modeſty of the Scriptures: Of the I<g ref="char:EOLhyphen"/>dol</hi>
+                           <pb n="26" facs="tcp:46281:26"/> Baal-peor: <hi>Why the Heathen pain<g ref="char:EOLhyphen"/>ted their laſcivious God and Godneſſe naked.</hi>
+                        </p>
+                     </argument>
+                     <p>The Schoolmen or Cafuiſts do aſſign ſix ſpeci<g ref="char:EOLhyphen"/>cies or principal kinds of unlawful executing our luſts, as by Fornication, Adultery, Inceſt, Sodomy Self-defiling, <hi>&amp;c.</hi> Almighty God knew wel e<g ref="char:EOLhyphen"/>nough of how combuſtible a matter our fleſh was compoſed and how ready and apt we were to be ſet on fire with obſcean words, and there<g ref="char:EOLhyphen"/>fore throughout the whole body of Scripture, where occaſion is to ſpeak of our unclean parts, the holy Ghoſt ever as it were caſts a veil over them, and ſhadows them by ſome figurative ex<g ref="char:EOLhyphen"/>preſſion, as in one place they, are called our fleſh, in another our feet, in another our ſhame, in ano<g ref="char:EOLhyphen"/>ther place our wickedneſſe, and that, <hi>piantiphra<g ref="char:EOLhyphen"/>ſin,</hi> becauſe they ſhould not be naked.</p>
+                     <p>Nay, the very Hebrew language which is cal<g ref="char:EOLhyphen"/>led not onely the holy, but <hi>lingua pudica</hi> the mo<g ref="char:EOLhyphen"/>deſt tongue, in the Hebrew I ſay there is no pro<g ref="char:EOLhyphen"/>per word to ſignifie any ſuch thing inſomuch that <hi>Origen</hi> in his 20 Homily upon Numbers, ſpeak<g ref="char:EOLhyphen"/>ing of the Idol <hi>Baalopeor,</hi> 
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n Idol of the Midi<g ref="char:EOLhyphen"/>anites that was chiefly ador'd by the women, he ſays, that when he had ſearched into the Hebrew for the original of that name he could find none,
+<pb n="27" facs="tcp:46281:26"/> ſave onely that it ſignified a kind of filthy luſtful act, and no more was to be found in the Rab<g ref="char:EOLhyphen"/>bins of the ſenſe of that word; I ſuppoſe they forbare to ſay more of it, to ſet down plainly what it ſignified, more out of modeſty then ignorance, not that they could not, but becauſe they would not for ſhame, leaſt they ſhould at once inſtruct their Readers and infect them; and for this very cauſe it is that the ſin of Sodomie hath no name, but is by the Schoolmen called <hi>Mutum pecca<g ref="char:EOLhyphen"/>tum; the ſin not to be ſpoken of.</hi>
+                     </p>
+                     <p>The Heathens always painted their laſcivious God and Goddeſs naked, not ſo much to ſhew forth the provocations of luſt; but that letchery will leave luſtfull people naked. And this was ty<g ref="char:EOLhyphen"/>pified of old in <hi>Dalilah, Sampſons</hi> miſtreſs, that carryed poverty in her very name, for ſo (I am told) by interpretation doth the word ſignific in the Original tongue.</p>
+                     <p>And as luſt ſoaks out ones eſtate, ſo it impairs the honour and the credit and repute of a man, however ſome brag and boaſt of it, and ſome great ones that I know in the world (as if they had the Monopoly of luſt to themſelves as of o<g ref="char:EOLhyphen"/>ther things) ſtile it <hi>Maguatum ladere,</hi> the Grandees recreation. But <hi>Dionyſius</hi> the elder of <hi>Sicily</hi> gave his ſon a good caveat to this purpoſe, when he had reproved him for being too much
+<pb n="28" facs="tcp:46281:27"/> addicted to women, asking him whether he had ſeen him his father do ſo before him? No (ſaid the ſon) but you father were not the ſon of a Prince as I am. True (quoth <hi>Dionyſius)</hi> I was not indeed the ſon of a Prince, and I fear if you follow on theſe lewd courſes, your ſon will not be the ſon of a Prince neither: meaning his people would not ſuffer him ever to enjoy the Crown.</p>
+                     <p>Add to this the rottenneſſe that it brings to the bones, the ulcers that it breeds in the fleſh, the untimely diſloving of the <note place="margin">Luſt how destruc<g ref="char:EOLhyphen"/>tive to Life.</note> whole frame of nature, forcing the ſoul out of dores before its time, We read that our father <hi>Abraham, Gen.</hi> 25. li<g ref="char:EOLhyphen"/>ved 175 years, and that his Grand-child <hi>Jacob</hi> lived but 147 years, and no more, <hi>Gen.</hi> 48. but <hi>Iſaac</hi> lived 180 years, longer then either of the other; and the reaſon is conjectured at by one of the Fathers to be, becauſe <hi>Iſaac</hi> was but the hus<g ref="char:EOLhyphen"/>band of one wife, but the other two had many wives; becauſe one was more chaſt and abſtemi<g ref="char:EOLhyphen"/>ous in the uſe of women then the reſt.</p>
+                  </div>
+               </div>
+               <div n="6" type="chapter">
+                  <pb n="29" facs="tcp:46281:27"/>
+                  <head>CAAP. VI. </head>
+                  <argument>
+                     <p>
+                        <hi>Of</hi> Manicheus <hi>and</hi> Marion, <hi>who allow our Saviour onely a fantastical ſeeming Body.</hi>
+                     </p>
+                  </argument>
+                  <p>THoſe Scepticks in Theologie, <hi>Manicheus</hi> and <hi>Marion,</hi> thoſe two exquiſite Traytors, who far out-ſtript <hi>Iudas,</hi> he ſold but his Maſters life, but theſe begin where he left, and rob him of his body. Belike they thought the Virgin was purpoſely overſhadowed to bring forth a ſha<g ref="char:EOLhyphen"/>dow; or elſe that themſelves might appear to be ſaved, they would have Chriſt to be a meer apparition. If ſo be that he was nothing but a dream, it was a fit ſeaſon for <hi>Nicodemus</hi> to come to him by night, the Jews were ſtill in a ſlumber, the Phariſees diſputed with him in their ſleep, and we our ſelves have not ſhaken of the ſame nap ſince. I confeſſe the eye may be often gull'd with her object, yet it cannot paſſe for cur<g ref="char:EOLhyphen"/>rant, that he that made the eye would delude it, and walk in the Viſor of a body 30 years; the Prophets, Kings, &amp; Patriarchs might have ſpared their longing, who beheld his Idea, and ſo en<g ref="char:EOLhyphen"/>joyed their wiſh in conceiving it. It is no bold conjecture, to think that ſo many eyes were o<g ref="char:EOLhyphen"/>pened to aſſure the touch of the opener, and as
+<pb n="30" facs="tcp:46281:28"/> many ears unlocked, that more then faith might come by hearing: the knowledg of him alſo came this way, for the word being made fleſh was known by his voice, and he that ſpake as never man ſpake, could he be thought an Eccho? if his words cannot witneſſe a mouth, his food and taſt may; from the Dug to the Vinegar he converſed with man, eating and drinking to the imputation of Gluttony: nor was he onely outwardly ſoci<g ref="char:EOLhyphen"/>able as the Angels were, hunger and thirſt ſet an edge to his appetite, his natural heat conquered this nouriſhment and confeſſed it by his growth: Bodies aſſumed or counterfeit have their perfecti<g ref="char:EOLhyphen"/>on in the cradle, and as they need no ſupply, ſo they thrive not by meat: If Chriſt were an emp<g ref="char:EOLhyphen"/>ty ſhape, it will ſound as impoſſible for <hi>Simeon</hi> to embrace air, as for air to ſupport that maſſie burthen; our Saviour from <hi>Simeons</hi> arm-full waxed tall enough to bear his own Croſſe.</p>
+                  <p>
+                     <hi>Thomas</hi> the Proverb of Unbelief, deſired no more warrant then the trial of a Touch, a ſenſe ſo corporeal, that plants themſelves ſhrinking from a light finger, ſeem in this kind as appre<g ref="char:EOLhyphen"/>henſive as man: no ſenſe pleads more for the ſolidity of Chriſts Body then the ſenſe of Feel<g ref="char:EOLhyphen"/>ing.</p>
+                  <div n="2" type="section">
+                     <pb n="31" facs="tcp:46281:28"/>
+                     <head>SECT. II. </head>
+                     <argument>
+                        <p>
+                           <hi>The most material objection againſt the reality of Chriſts body anſwered of the two ſenſes ſeeing, and feeling.</hi> Apol<g ref="char:EOLhyphen"/>linarius <hi>error.</hi>
+                        </p>
+                     </argument>
+                     <p>The example of <hi>Iacobs</hi> couzenage, whoſe hands gainſaid his voice, might afford ſome pre<g ref="char:EOLhyphen"/>tence of ſtaggering, but when all are knit in a mu<g ref="char:EOLhyphen"/>tual teſtimony, as well of themſelves as the truth, he that denies it, is leſſe ingeni<g ref="char:EOLhyphen"/>ous then the confeſſing Divels. <note place="margin">The Manithees and Marionits leſſe ingenious then the Di<g ref="char:EOLhyphen"/>vels.</note>
+                     </p>
+                     <p>St. <hi>Paul</hi> could queſtionleſſe have verified his humanity by more eſſential properties then his figure, <hi>Phil.</hi> 2. 8. found in faſhion like a man, but none ſo obvious and fa<g ref="char:EOLhyphen"/>miliar as the common objects of thoſe two tru<g ref="char:EOLhyphen"/>ſty ſenſes, the eye, and the touch, whoſe eaſie in<g ref="char:EOLhyphen"/>telligence, though it pitch firſt on the outward ſurface, it reſts not there, but uſhers our view to the whole draught and inward Table of man, the beauteous variety of uſefull Organs, the regular property of limbs, commended by a ſtreight and comely poſture, promiſe at firſt ſight, a ſoul an<g ref="char:EOLhyphen"/>ſwerable to her province, and a maſter not un<g ref="char:EOLhyphen"/>like ſo fair a lodging, ſuch a houſe were too good for a meaner gueſt then a reaſonable ſoul, and too bad for a better, <hi>Apollinarius</hi> matching the fleſh
+<pb n="32" facs="tcp:46281:29"/> and the Godhead in one compound gives not our Saviour the faſhion of a man but of a body, and by over advancing the happy eſtate of the fleſh, makes us all looſers in the ſoul.</p>
+                  </div>
+                  <div n="3" type="section">
+                     <head>SECT. III. </head>
+                     <argument>
+                        <p>
+                           <hi>Who ſhall be ſaved, and who not (as be<g ref="char:EOLhyphen"/>ing not capable of a reſurrection) ac<g ref="char:EOLhyphen"/>cording to the Iewiſh Rabbins; St.</hi> Cy<g ref="char:EOLhyphen"/>rils <hi>expoſition.</hi>
+                        </p>
+                     </argument>
+                     <p>Some have had the confidence (and that of late years) to queſtion, whether at the day of doom all mankind univerſally ſhall be capable of a reſur<g ref="char:EOLhyphen"/>rection or not? the Jewiſh Rabbins ſay that they ſhall not; one of them ſaith, that thoſe that peri<g ref="char:EOLhyphen"/>ſhed at <hi>Noahs</hi> floud, ſhall not be partakers of the reſurrection, another will not allow the children of unbeleeving parents any ſhare in the reſurrection, leaſt (forſooth) their Parents might receive any comfort by it; a third thinks the re<g ref="char:EOLhyphen"/>ſurrection belonged to Iſrael, and not to Gentiles at all a fourth excepts againſt them four too, <hi>viz. Bilha, Iacobs</hi> concubine that lay with <hi>Reuben Doeg</hi> that cauſed <hi>Saul</hi> to ſlay <hi>Abimelech</hi> and the Prieſts, <hi>Geheza</hi> and <hi>Achitophel;</hi> but St. <hi>Paul</hi> is peremptory againſt all ſuch vain excep<g ref="char:EOLhyphen"/>tions, in the 3 Chap. <hi>ad Cor.</hi> he ſaith expreſſely.
+<pb n="33" facs="tcp:46281:29"/> 
+                        <hi>as in</hi> Adam <hi>all died, ſo in Chriſt ſhall all be made alive,</hi> all the wicked as well as the juſt. all ſhall riſe from their graves, but not all to glory, the wicked ſhall not ſtand <note place="margin">All ſhall riſe the wicked as well as the Godly</note> in judgement (ſaith <hi>David)</hi> or elſe they ſhall appear in judge<g ref="char:EOLhyphen"/>ment (ſaith St. <hi>Cyril)</hi> but not ſtand in it, <hi>i. e.</hi> they ſhall be caſt and overthrown in it.</p>
+                  </div>
+               </div>
+               <div n="7" type="chapter">
+                  <head>CHAP. VII. </head>
+                  <argument>
+                     <p>
+                        <hi>How far the ancient Heathen might go by Philoſophy onely.</hi>
+                     </p>
+                  </argument>
+                  <p>THe wiſer Heathen by Phyloſophy and the ſcale of the creatures, aſcended ſo high as to the knowledge of one ſupream Deity, this the courſe of nature taught them; for indeed the whole world is nothing elſe but a commentary or pa<g ref="char:EOLhyphen"/>raphraſe of the Deity, howbeit many of the Hea<g ref="char:EOLhyphen"/>then inſtead of knowing God by his works, mi<g ref="char:EOLhyphen"/>ſtook many of his works for their Gods.</p>
+                  <p>But though ſome of them might diſcover by the works of the creation a ſupream Deity, yet they could not diſcern any ſaving power by that perſpective, or if they did is was but obſcurely, as wrapt up and involved in the notion of a com<g ref="char:EOLhyphen"/>mon providence, as beleeving one ſupream God,
+<pb n="34" facs="tcp:46281:30"/> and that God to be juſt, and ſo a rewarder of thoſe that did well; but of the ſon of God to be incarnate, and to die in ſatisfaction for their er<g ref="char:EOLhyphen"/>rours and tranſgreſſions, of this for ought we know they had not the leaſt knowledge at all.</p>
+                  <p>However for the reſurrection of bodies, <hi>Plato, Plotinus, Virgil,</hi> &amp;c. poſitively conclude, that the ſoul is immortal, and capable of eternal blifle or everlaſting torture; and therefore <hi>Overton</hi> and his adherents, who ſo ſtrenuouſly and blaſ<g ref="char:EOLhyphen"/>phemouſly attempt to prove the ſoul dies with the body <hi>(Overton</hi> having divulged a book to that purpoſe) may be reputed worſe then Heathen. That the bo<g ref="char:EOLhyphen"/>dies <note place="margin">Overtons book of the mortality of the ſoul.</note> of all mankind may ariſe, I thus prove by natural reaſon.</p>
+                  <div n="2" type="section">
+                     <head>SECT. II. </head>
+                     <argument>
+                        <p>
+                           <hi>The general reſurrection of bodies at the last day, proved poſſible by natural rea<g ref="char:EOLhyphen"/>ſon.</hi>
+                        </p>
+                     </argument>
+                     <p>What elſe doth the night in her black mantle with all thoſe ſtars as ſo many torches attending her, but proclaim the laſt days funerall which the next morning revives again, I may inſtance in Quick ſilver, which though you moulder into drops no bigger then Attoms, it naturally unites
+<pb n="35" facs="tcp:46281:30"/> its parts together again, and reſumes its old form. I might inſtance the ſilk-worm or Phoenix, which is <hi>ipſi ſibi proles ſuus,</hi> &amp;c.</p>
+                     <p>I could ſpeak likewiſe out of <hi>Ioſephus</hi> of <hi>Paſ<g ref="char:EOLhyphen"/>caſin</hi> his Holy well, that fils of it ſelf every Ea<g ref="char:EOLhyphen"/>ſter day; and of the annual riſing of certain Mar<g ref="char:EOLhyphen"/>tyrs bones in <hi>Aegypt:</hi> but I ſhould be too prolix. Take therefore a brief of all from St. <hi>Augustine: Tota mundi administratio futura Reſurrectio<g ref="char:EOLhyphen"/>nis teſtimonium eſt; The whole courſe of na<g ref="char:EOLhyphen"/>ture is nothing elſe but a teſtimony and mani<g ref="char:EOLhyphen"/>festation of the Reſurrection.</hi>
+                     </p>
+                     <p>That Chriſt is riſen from the dead is an Arti<g ref="char:EOLhyphen"/>cle of our Belief. <hi>Fundatiſſimi fidiae,</hi> &amp;c. a well grounded principle in our Chriſtianitie, that now after ſo many years growth needs no prop to ſup<g ref="char:EOLhyphen"/>port it; nor can we confirm it by the creation of any new Arguments, but onely by the reſurrec<g ref="char:EOLhyphen"/>tion and reviving of the old. Let it be given out that his Diſciples came by night, and ſtole him away while they ſlept, none but a beſot<g ref="char:EOLhyphen"/>ted Jew, given over to believe lies, can <note place="margin">The Jewes contra<g ref="char:EOLhyphen"/>dict them<g ref="char:EOLhyphen"/>ſelves</note> credit it; for if the Watchmen were a<g ref="char:EOLhyphen"/>ſleep how could they tell that his Diſci<g ref="char:EOLhyphen"/>ples ſtole him <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>? if they were nor aſleep, why would they ſuffer his Diſci<g ref="char:EOLhyphen"/>ples to ſteal him.</p>
+                     <p>And beſides, who can beleeve that his Diſci<g ref="char:EOLhyphen"/>ples,
+<pb n="36" facs="tcp:46281:31"/> a poor diſconſolate and forſaken company, Doves under the tallons of the Jewiſh Vultures and Romane Eagles, ſhould adventure upon a guarded Sepulcher, to brave a band of armed Souldiers? Can you think, that they who before he was crucified ſtole for fear themſelves away, would now adventure to ſteal him away? that they that could not watch with him before one hour at prayer, ſhould now watch whole nights to ſteal his body from the Grave? And if they had ſtollen him, what did they expect, but a body as dead and liveleſſe as their own hopes? Thus when ſuch ſtrange impoſſibilities are brought to back it, a lie doth confute it ſelf, and blinded malice helpeth to eſtabliſh &amp; confirm the truth; nor by ſuch forgeries as theſe is our Belief a<g ref="char:EOLhyphen"/>ny whitſhaken, but rather ratified and confirmed.</p>
+                     <p>But (and this is the main Objection of our preſent Sadduces) an exemplary cauſe is not e<g ref="char:EOLhyphen"/>nough, this demonſtrates neither a power nor a will in Chriſt to do it; a pattern cannot raiſe me: I may have the Map or the Copy of the Univerſe, yet by that Map, by that Copy not be able to make another: I may ſee the picture of Chriſtr Reſurre<g ref="char:EOLhyphen"/>ction upon a wall, but that will no more raiſe me then it will make me valiant to read of <hi>Hannibal, Caeſar, Alexander.</hi> Objects have a moving and attracting power in them, but no forcing caſualty;
+<pb n="37" facs="tcp:46281:31"/> the heavens are a fair ſight, but they cannot make a blind man ſee; no more can a bare pattern raiſe a dead man from the Grave.</p>
+                     <p>
+                        <hi>I Anſwer.</hi>
+                     </p>
+                     <p>That beſides this, there is a proper efficacy in Chriſt, an Influence diſtilling from him the head to us the members, a dew on our ſouls, and a dew on our bodies, ſuch a dew as will make a withered ſoul and a dead bodie revive again.</p>
+                     <p>Our Saviour who raiſed himſelf from his Mo<g ref="char:EOLhyphen"/>nument, ſhall be the cauſe of our Reſurrection; he is the root, we are the branches, if the root live, the branches will ſpring forth; and it is no abſurd concluſion, he is riſen, and therefore we ſhall riſe; Chriſts reſurrection and ours are links of the ſame chain, pull one and all will follow: if there paſſed ſuch a power from his cloaths, why not ſuch a power from his reſurrection? Now Chriſt, who had <hi>depoſitum carnis noſtrum</hi> (as <hi>Tertullian</hi> ſaith) by raiſing up himſelf, hath given us a pledge and an aſſurance that he will us raiſe alſo, ſo that he may raiſe in us a belief and an aſſurance of it, he hath given us many types and emblemes of it in the book of Nature; it is writ in every field we walk in: Conſider the Lillies, and al flowers, how they die and grow freſh again; corruption is the chiefeſt cauſe of their continuance: the earth alſo receives not the ſeed, but to reſtore it again.</p>
+                  </div>
+                  <div n="3" type="section">
+                     <pb n="38" facs="tcp:46281:32"/>
+                     <head>Sect. III. </head>
+                     <argument>
+                        <p>
+                           <hi>That the Angels are always converſant with us here below,</hi> &amp;c.</p>
+                     </argument>
+                     <p>St. <hi>Paul,</hi> though he gave a ſufficient reaſon for the covering of women in the Church, be<g ref="char:EOLhyphen"/>cauſe of the Angels and their reverence; for they are every where, they pitch round a<g ref="char:EOLhyphen"/>bout us: Yet if our eys were opened (like Gods ſervant) or cloſed up either
+<note place="margin">That the Angels are al<g ref="char:EOLhyphen"/>ways conver<g ref="char:EOLhyphen"/>ſant with us.</note> in a holy dream (like <hi>Iacob)</hi> we ſhould behold them aſcending and deſcending; deſcending from the Preſence-Chamber of the great King, and aſcending up with our requeſts; again deſcending to com<g ref="char:EOLhyphen"/>fort our deſires, to illuminate our underſtand<g ref="char:EOLhyphen"/>ings. <hi>Inter ſunt Cantantibus adjunt Oranti<g ref="char:EOLhyphen"/>bus in ſunt Meditantibus</hi> (ſaith St. <hi>Bernard)</hi> When we ſing, they make up the Quire with us; when we offer up our Oriſons, they hover about us, <hi>&amp;c.</hi> and which is more, they joyn in the firſt Petition of the Lords Prayer with us.</p>
+                  </div>
+                  <div n="4" type="section">
+                     <head>Sect. IIII. </head>
+                     <argument>
+                        <p>
+                           <hi>The equality of Gods Iuſtice obſervable; many inſtances out of Scripture and o<g ref="char:EOLhyphen"/>ther Authors.</hi>
+                        </p>
+                     </argument>
+                     <pb n="39" facs="tcp:46281:32"/>
+                     <p> It is uſuall with <hi>Iehovah</hi> to ſute and propor<g ref="char:EOLhyphen"/>tion the puniſhment according to the offence of the ſinner, that many times, the judgement is but as it were an anagram of the ſin, ſo that you may eaſily read the offence in the puniſhment. God doth retalliate to ſinners, pay them (as we ſay) <hi>in their own coin.</hi> The Aegyptians they drown all the males of the children of Iſrael, and they themſelves, their maſter <hi>Pharaoh,</hi> and all his hoſt periſh in the red ſea. <hi>Corah, Dathan,</hi> and <hi>A<g ref="char:EOLhyphen"/>biram,</hi> opened their mouths againſt <hi>Moſes</hi> and <hi>Aron,</hi> the Lords anointed King and Prieſt, and the earth preſently opened her mouth and ſwal<g ref="char:EOLhyphen"/>lowed them up, <hi>Sodom</hi> burned with unnaturall luſt, and they were burned up with fire; that a ſhower of brimſtone ſhould deſcend from above, and a ſhower of fire from that which is natural<g ref="char:EOLhyphen"/>ly water, that hell it ſeif ſhould come down from heaven, is a prodigie onely exceeded by the ſin that cauſed it.</p>
+                     <p>
+                        <hi>Adombezek</hi> that had taken the 70 Kings and barbarouſly cut of their great toes, had his own toes cut off ſoon after, and it wrung from him this expreſſion, As I have done ſo hath God requited me, <hi>Iudg,</hi> 1. 7.</p>
+                     <p>Becauſe <hi>Moab</hi> burned up the bones of the King of Edom, therefore God burnt up <hi>Moab.</hi> And the Jews that bought Chriſt of <hi>Iudas</hi> for
+<pb n="40" facs="tcp:46281:33"/> thirty pence, at the ſacking of Jeruſalem by the Roman Emperour <hi>Titus,</hi> 30 of them were ſold for a peny.</p>
+                     <p>
+                        <hi>Herodias</hi> that by her laſcivious dancing pro<g ref="char:EOLhyphen"/>cured <hi>Herod</hi> to cut of St. <hi>Iohn Baptists</hi> head, had her own head cut off by the breaking of the ice, as ſhe paſſed over a river. <hi>Nicephorus Ec<g ref="char:EOLhyphen"/>cleſ, Hiſt. lib.</hi> 1. chap. 20.</p>
+                     <p>
+                        <hi>Hatto</hi> that mercileſſe Biſhop of Ments, who ſet fire on his barn, where many poor people were congregated to get relief for their hunger, and burned them up like Vermine, was himſelf followed with troops and armies of mice and rats, who found him out though immured in a ſtrong Caſtle, ſeated in the midſt of a river, and falling on him devoured him to the bones; <hi>Munſter</hi> relates he ſtory at large in the third book of his Coſmo<g ref="char:EOLhyphen"/>tgraphy.</p>
+                  </div>
+                  <div n="5" type="section">
+                     <head>SECT. V. </head>
+                     <argument>
+                        <p>
+                           <hi>Concerning Chriſts reſurrection, two Queres.</hi>
+                        </p>
+                     </argument>
+                     <p>For Chriſts reſurrection whether when he roſe his humane ſoul, came and united it ſelf to the body by its own motive faculty, or elſe aſſiſted by the power of the Deity.</p>
+                     <p>Whether his body penetrated the Tomb<g ref="char:EOLhyphen"/>ſtone, or whether the Angels, that removed it
+<pb n="41" facs="tcp:46281:33"/> were miniſterial in it, and furtherers of his Reſur<g ref="char:EOLhyphen"/>rection?</p>
+                  </div>
+                  <div n="6" type="section">
+                     <head>SECT. VI. </head>
+                     <argument>
+                        <p>
+                           <hi>Enquiries in referrence to our own Re<g ref="char:EOLhyphen"/>ſurrection,</hi> &amp;c.</p>
+                     </argument>
+                     <p>For our own Reſurrection, Whether we ſhall not riſe all of one age, about 32, which we have good ground to think; becauſe it is ſaid in <hi>Epheſ.</hi> 5. <hi>Till wee come to the meaſure of the Age of Christ?</hi>
+                     </p>
+                     <p>Whether in our Reſurrection, our hair and our nails that have been cut, whether thoſe excre<g ref="char:EOLhyphen"/>mentious parts ſhall not riſe with us?</p>
+                     <p>Then for the time of the Reſurrection, Whe<g ref="char:EOLhyphen"/>ther it ſhall be in <hi>April,</hi> as <hi>Athanaſius</hi> thinks, in his ſixth Homily? and for the time of the day, Whether it ſhall be early in the morning, which we have cauſe to think, becauſe Chriſt roſe at that time? or in the middle of the night (as St. <hi>Hierome</hi> thinks) becauſe Chriſt ('tis ſaid) ſhall come as a Thief in the night: and as St. <hi>Ambroſe</hi> collects from thoſe words, <hi>viz.</hi> In that night two ſhall be lying in one bed, <hi>&amp;c.</hi>
+                     </p>
+                     <p>Then for the place where we ſhall be raiſed, whether in the valley of <hi>Megiddo</hi> where <hi>Ieho<g ref="char:EOLhyphen"/>ſaphat</hi> fell, as the Rabbins think; or at leaſt in
+<pb n="42" facs="tcp:46281:34"/> ſome part of the Holy Land; the reaſon (per<g ref="char:EOLhyphen"/>haps) why <hi>Ioſeph</hi> and the Patriarchs were ſo ſo<g ref="char:EOLhyphen"/>licitous to have their bones carried from <hi>Aegypt,</hi> and other places to be buried there,</p>
+                     <p>Then whether we ſhall riſe naked or cloathed, which we may juſtly diſpute, becauſe the ſeed that ſprings up is covered with a husk?</p>
+                     <p>Whether God will not uſe the help of the An<g ref="char:EOLhyphen"/>gels in raiſing us? whether they ſhall gather our bones and duſt together (as <hi>Suarez</hi> thinks) and we have ſome ground to beleeve, becauſe 'tis ſaid in the Parable of the Sower, <hi>The Angels are the Reapers, and they ſhall ſeparate the wicked from the juſt.</hi>
+                     </p>
+                     <p>Laſtly, when we riſe, whether there ſhall be any diſtinction of Sexes, Male or Female a<g ref="char:EOLhyphen"/>mongſt us. <hi>Scotus</hi> thinks there ſhall not; and perhaps that Text may intimate as much, where it is ſaid, There is no Marrying, nor giving in Mar<g ref="char:EOLhyphen"/>riage; but we ſhall be like the Angels of God.</p>
+                  </div>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:46281:34" rendition="simple:additions"/>
+                  <p> A SERAPHICK RHAPSODY ON The Incarnation, the Progreſsion, <hi>And the</hi> PASSION OF Ieſus Chriſt.</p>
+                  <p>By SAMUEL SHEPPARD.</p>
+                  <p>
+                     <hi>LONDON:</hi> Printed by <hi>B. Alſop,</hi> MDCLII.</p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:46281:35"/>
+                  <pb n="45" facs="tcp:46281:35"/>
+                  <head>A SERAPHICK RHAPSODIE <hi>On the</hi> Paſsion of Chriſt.</head>
+                  <p>
+                     <seg rend="decorInit">C</seg>Hriſt comming to write our ac<g ref="char:EOLhyphen"/>quittance with his bloud, knew well that humility would ſuit beſt with the head, when the body was ſick with pride, He bowed the Heavens and came down, <hi>i, e,</hi> the honour of his Godhead was not put off by cloathing it with rags of fleſh; from his birth to his burial reacheth the humiliation of his manhood, never ceaſing till his head was thrown under earth his footſtool. Thus his paſſi<g ref="char:EOLhyphen"/>on
+<pb n="46" facs="tcp:46281:36"/> began in the ſtable, where he was no ſooner born, but the Creed immediately tels us he ſuffer<g ref="char:EOLhyphen"/>ed; the bloud of his circumciſion was but ſo many warning drops of this great ſhower in his paſſi<g ref="char:EOLhyphen"/>on; and whereas others were born to live, his one<g ref="char:EOLhyphen"/>ly errand was to die: to this end he villified him<g ref="char:EOLhyphen"/>ſelf, being brought up in poverty, ranked with the meaneſt, no companion but for Publicans and Sinners, never taken notice of by the chiefer ſort. The Jews groſsly expected the Meſſiah in world<g ref="char:EOLhyphen"/>ly pomp, as if God would be known by his cloaths, ſuch is the Sorcery of bewitching <hi>Mam<g ref="char:EOLhyphen"/>mon,</hi> that a gawdy traine would have gone fur<g ref="char:EOLhyphen"/>ther with them then a miracle: but doth any come to Petition in State, or to beg in robes? humility was the right garb of Chriſts intendment; for none can vault or mount himſelf without ſhrink<g ref="char:EOLhyphen"/>ing his joints, none can raiſe another unleſſe he ſtoop to do him courteſie; the ſureſt building hath the loweſt foundation, and Chriſt our Corner<g ref="char:EOLhyphen"/>ſtone, our ſtrong Tower whereby we aſcend in<g ref="char:EOLhyphen"/>to heaven, muſt be firſt deep layed in the bowels of the earth.</p>
+                  <p>In the eye of man Chriſt humbled himſelf, but the object of his obedience was God, whether active in fulfilling the law, or paſſive in bearing the puniſhment for the law: this latter obedience neither contradicts his equality with the father,
+<pb n="47" facs="tcp:46281:36"/> nor his willingneſſe in ſuffering for his brethren, becauſe an equal may be ſent by his equal, perfor<g ref="char:EOLhyphen"/>ming the task undertaken by his own conſent: the Heathen ſuperſtitiouſly thought it ominous when the Oxe was not half a Prieſt, not religiouſly bowing his neck to the ſtroke; Chriſt then could be no gratious ſacrifice unleſſe his bloud was ſent out as willingly as it was cruelly drawn, Obedi<g ref="char:EOLhyphen"/>ence is better then ſacrifice, but ſacrifice with o<g ref="char:EOLhyphen"/>bedience is far better; both which were gently u<g ref="char:EOLhyphen"/>nited by our Saviour, who voted his death, preſen<g ref="char:EOLhyphen"/>ted his perſon, and quietly admitted violence, as much without the aſſailers compulſion as his own command, witneſſe his injoyning the peace to his followers, the Hoſt of Angels ſhall have no watch-word (for they were the taller ſouldiers) becauſe he will not be reſcued from ſurprizing mi<g ref="char:EOLhyphen"/>ſeries; <hi>Peter</hi> ſhall not perſwade, nor the Jews work him out of his peremptory reſolution: <hi>De cruce non vult deſcendere, qui potuit de morte reſurgere</hi> (ſaith St. <hi>Auguſtine,)</hi> he will not keep himſelf alive that can riſe being dead: others as they are not born when they will, ſo neither can they die when they will; <hi>Voluntary expence of life is but a glorious murther,</hi> and ſo the ex<g ref="char:EOLhyphen"/>ample of Chriſts death might bring us thither from whence the benefit redeems us: but our Sa<g ref="char:EOLhyphen"/>viour having life in his own dominion, had pow<g ref="char:EOLhyphen"/>er
+<pb n="48" facs="tcp:46281:37"/> to lay it down, &amp; power to take it up again, <hi>no man took it from him, he layed it down of himſelf</hi> John, 10 18. ſo that <hi>Pilate</hi>'s arrogance herein was much out, who had no authority to condemn, but from the perſon condemned: where<g ref="char:EOLhyphen"/>fore that perplexed and paſſionate <note place="margin">Pilate re<g ref="char:EOLhyphen"/>luctancy but an ambuſh to the Divel.</note> reluctancy of his appetite, was but an buſh to the Divel, and to Chriſts o<g ref="char:EOLhyphen"/>bedience a Trophey; for as the one would not ſcarce have ventured with<g ref="char:EOLhyphen"/>out imitation, ſo the other could not have con<g ref="char:EOLhyphen"/>quered without oppoſition. <hi>The fire of virtue having not matter to ſcedon, will die of idleneſs;</hi> paſſion augments the liberty of the wil, whoſe ac<g ref="char:EOLhyphen"/>tive courage runs beſt w<hi rend="sup">th</hi> fetters, &amp; moſt declares her magnanimity in a ſtiff contradiction. Chriſt therefore whoſe <hi>Ely</hi> took our infirmities, was freely troubled, both for the greater proof of his manhood, and greater victory, nay valour was here the cauſe of fear, and all theſe unwilling mo<g ref="char:EOLhyphen"/>tions proceed of very willingneſs, neither can af<g ref="char:EOLhyphen"/>fections being naturall powers be made unlawful by workings but over-maſterings, and theſe infe<g ref="char:EOLhyphen"/>rior orbs of the ſoul may enjoy their proper courſe, ſo they turn with the ſwinge of ther prime mover, not ſpurning at the wills, decrees: <hi>Iſaack</hi> may ask his father where is the Lamb <hi>(for inno<g ref="char:EOLhyphen"/>cency cannot die without a word,)</hi> and our Sa<g ref="char:EOLhyphen"/>viour
+<pb n="49" facs="tcp:46281:37"/> may well begin his prayer with an <hi>If,</hi> but the concluſion is abſolute, the cup ſhall not paſſe from him, and I likewiſe will paſs to it.</p>
+                  <p>The ſoul her ſelf (though impenetrable) muſt not ſcape, which being the original womb of Diſ<g ref="char:EOLhyphen"/>obedience in us, firſt returns his paenal Obedience in Chriſt the very Qualm &amp; ſeiſure of his Agony was heavier then unto Death, whoſe pangs were known before they were felt, known &amp; augmen<g ref="char:EOLhyphen"/>ted by that accurate apprehenſion, which in the heat of his fit made the ſoul work more upon the body, then the body wrought afterwards upon the ſoul. For how ſharp was the conflict! O how was the ſoul preſerved when the body was forced to rain blood! when every Pore gaſped as if the ſoul meant to follow, and he to die as often as it had places to expire at! Indeed well it might; for this ſingle Death was conceived as a multitude of Deaths, a Death for thoſe that died before and after. Behold a ghaſtly ſight; for he that never committed one ſin, to be charged with ſo many heaps of ſin, whoſe load could not chuſe but be the heavier, becauſe Innoccency lay under and came ſo near to Guilt as to be puniſhed; the Cup of ſower Grapes mixed with thoſe thoughts, burſt out into billows of Sweat, ſo that <hi>Floods ran over him, Pſal.</hi> 69. Oh what bleeding was within, when it ſtreamed ſo without<g ref="char:punc">▪</g> never was
+<pb n="50" facs="tcp:46281:38"/> ſuch a Sweat becauſe never ſuch a Cauſe; no ſuch heat but that of Hell. Sin being the Fewel of both: by whoſe vehemency each Pore became an Eye, and each Member wept, that by the tears of his whole body, the whole body of his Church might be cleanſed; and yet his ſufferance ſwells to the largeſt extent of Obedience, exerciſed in ſundry torments by all perſons upon his parts; Friend and Foe, Jew and Gentile, King, Prieſt and People, all joyn againſt him, in the Front of which conſpiracy comes <hi>Judas,</hi> a Wolf trained up in the ſchool of a Lamb, with a Kiſſe; <hi>Was e<g ref="char:EOLhyphen"/>ver ſuch a ſalutation between God &amp; the Devil?</hi> with a kiſſe doth this courteous blood-ſucker kil his Maſters Traytor, Doſt thou ſo <hi>kiſſe the Son leſt he be angry?</hi> Well; take thy leave <hi>Judas,</hi> never ſhalt thou come ſo near again; this hang<g ref="char:EOLhyphen"/>ing about Chriſts neck, ſhall coſt thine own a worſer hanging, whileſt Heaven and Earth, for betraying him that came from both, ſhall with vengeance thruſt thee from them, and leave thy Carcaſſe to thy new Maſter <hi>the Prince of the Aire.</hi>
+                  </p>
+                  <p>It could not chuſe but make his Enemies bold to ſee his Diſciple ſo cruel, who now prepare to kill the true Paſſeover, though not for their own, but our eating; the ſeed of <hi>Abraham</hi> came out with Bills and Staves to take him, who came
+<pb n="51" facs="tcp:46281:38"/> down from Heaven to take the ſeed of <hi>Abra<g ref="char:EOLhyphen"/>ham;</hi> and violently attach him with their hands, whom they could not apphehend with their hearts: They take him, but as <hi>Sampſon</hi> was taken by the Philiſtines, to the loſſe and ruine of themſelves; both felt the God of <hi>Iſrael</hi> when they held him in bondage; both ſmarted under their priſoner: By tying his hands which might have looſed theirs, they tied themſelves in a dou<g ref="char:EOLhyphen"/>ble knot; but that hindred not his proceeding, who through <hi>Adams</hi> captivity through a raſh freedome, regained us liberty with a deliberate captivity: Thus with bonds of liberty he travelled to <hi>Caiphas,</hi> a man that went for a High Prieſt, but firſt, Murther muſt call in <hi>Annas,</hi> his reverend Father-in-Law, that ſo the generation of Vipers might be more allied in bloud. After <hi>Annas, Cai<g ref="char:EOLhyphen"/>phas</hi> with good manners may be avillain; a zea<g ref="char:EOLhyphen"/>lous counterfeit, who having with deep conjurati<g ref="char:EOLhyphen"/>on wrung out the truth, accuſeth God himſelf of Blaſphemie: The watch word being given, the ſer<g ref="char:EOLhyphen"/>vants are diligent in reviling him that never ſpake amiſs, they blind his eys, &amp; challenge a Propheſie, <hi>that ſo they might prove him a Seer, by making him not to ſee;</hi> they <hi>pluck off his hair, Eſay</hi> 5. 6. that no hair of us might periſh, threſhing his cheeks with buffets, wherein our offences have a hand: Yet to all theſe reproaches he <hi>ſets his</hi>
+                     <pb n="52" facs="tcp:46281:39"/> 
+                     <hi>face at a flint, Eſa.</hi> 5. 6. as flint indeed, from whence thoſe ſmiters ſmore fire for their own Damnation. The night being ſpent with thoſe helliſh Paſtimes, they benight the Day with Ac<g ref="char:EOLhyphen"/>tions of Darkneſſe; their fury hurries him to <hi>Pi<g ref="char:EOLhyphen"/>late,</hi> where the Scribes ommitting Blaſphemie as an idle brangling before a ſecular Judge object him a Traytor againſt the God <hi>Caeſar;</hi> this kil<g ref="char:EOLhyphen"/>ling Plea they keep till laſt, and make it the firſt Argument of his guilt, that <hi>They</hi> brought him, as if their infallible Chair could neither erre nor ſlander, whereas affectors of credit are moſt com<g ref="char:EOLhyphen"/>monly Liars; theſe <hi>holy Murtherers</hi> though by no meanes they will enter the Judgement Hall, becauſe of the Paſſeover, nor be defiled with a place of bloud; yet with a clear Conſcience they proſecute that deed which defiles the place. <hi>Pi<g ref="char:EOLhyphen"/>late</hi> eſpying their malice, makes a friend of a bad office, ſhifts him over to <hi>Herod.</hi> This King was more like a Courtier then himſelf, a moſt <note place="margin">Herod his Cha<g ref="char:EOLhyphen"/>racter.</note> curious piece of Vanity, who after ſome diſcourſe of ſtately impertinency, would fain have God recreate his Highneſſe with a Mi<g ref="char:EOLhyphen"/>racle: Behold a Miracle of Patience, Our Savi<g ref="char:EOLhyphen"/>our returns him and his ſcoffs not ſo much as a word; <hi>Silence is the best reply to a</hi> 
+                     <note place="margin">A ſpea<g ref="char:EOLhyphen"/>king ſi<g ref="char:EOLhyphen"/>lence.</note> 
+                     <hi>Babler, which both ſecretly darts at the Conſcience of the Adverſary, and re<g ref="char:EOLhyphen"/>tains</hi>
+                     <pb n="53" facs="tcp:46281:39"/> 
+                     <hi>the ſtation of Meekneſſe.</hi> Our Saviour was often dumb as a Lamb, his dumbneſſe now hath made him white as a Lamb: for <hi>Herod</hi> mocking him with a white Robe, as a Candidate or ſuitor onely for a Kingdome, unwillingly de<g ref="char:EOLhyphen"/>ciphers his integrity in its true colours; thus atti<g ref="char:EOLhyphen"/>red, he is toſled back again like a Tennis-ball to <hi>Pilate,</hi> where death is little, unleſſe an odious compariſon with <hi>Barrabas</hi> kill him double; this of the two is the Goat, which to the utter pollu<g ref="char:EOLhyphen"/>tion of the Diſmiſſers is ſet at liberty, <hi>Gen.</hi> 16. and the deſtroyer of the living is thought more worthy of life then he that raiſed their dead. <hi>Pi<g ref="char:EOLhyphen"/>late</hi> being weary of being juſt againſt the ſtream, delivers him to the place of crucifying to be ſcour<g ref="char:EOLhyphen"/>ged by ſouldiers, a puniſhment ordained by the Romanes for ſmall offences, as the Axe for capi<g ref="char:EOLhyphen"/>tal: But Chriſt, who ſuffered for our ſlips as well as for our crimes, endured not onely the Croſſe, but ſcourging, a puniſhment moſt ſuitable to the nature of ſin, whereof any Act, though ne<g ref="char:EOLhyphen"/>ver ſo little, makes as many breaches in the Law is the laſh imprints in the body. When the whip had launced our Saviours fleſh, their own humour <hi>(bad Commands are ſtill over-done)</hi> proceeds to ſcorn him in ſtate, and inviting the multitude to their pettulant fury; they repeat what was done laſt night with advantage, with
+<pb n="54" facs="tcp:46281:40"/> thorns they crown his head, not remembring the Parable of <hi>Jotham,</hi> that fire might come out of the Bramble. <hi>All Crowns are thornie,</hi> and the Heatheniſh Sacrifices uſed to be crowned; but when this Sacifice of Jew and Gentile is crown<g ref="char:EOLhyphen"/>ed with thorns, when his head is tyed in the thic<g ref="char:EOLhyphen"/>kets, is not this the Oblation that was ſlain for <hi>I<g ref="char:EOLhyphen"/>ſaac</hi> and all the flock of the Faithfull? Next in ridiculous honour they inveſt him in a Purple garment: Why ſhould their ſpight be at ſuch charges? the white Robe now clapt on his blee<g ref="char:EOLhyphen"/>ding Members, would ſoon take the dye of a bet<g ref="char:EOLhyphen"/>ter Purple. But to make him a compleat <hi>mock-Emperour,</hi> with bended knees they gave him a Reed for a Scepter. Innocent King, herein thy obedience is moſt remarkable; for whereas other members were meerly paſsive, here the hand was made an inſtrument of its own ſhame; the Ree<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> daſhed againſt thy head, ſhews thy ſufferings to be the doings of thy own Scepter. In this variety of torments, I find no women ſave onely one, whom the Devil to preſerve his old ſlight of tempting had ſet on <hi>Peter: Eve,</hi> the cauſe of all, had done enough already, and ſuch hands were to weak for the Jews hate, which required the utmoſt vigour of bloody ſouldiers: but out Saviour having tyred them alſo, <hi>Pilate,</hi> who thought it mercy to uſe him thus cruelly, preſents
+<pb n="55" facs="tcp:46281:40"/> him in his wofull formalities to move compaſsi<g ref="char:EOLhyphen"/>on, <hi>Behold the man;</hi> alas, alas the King, is this a Competitioner for a <hi>Caeſar?</hi> they like hounds having faſtened upon the prey, and comming a<g ref="char:EOLhyphen"/>gain to full gaze, yell out with full cries, <hi>Crucifie him, Crucifie him:</hi> Since then <hi>Iuſtice is turned to a cry, Eſay</hi> 3. I appeal to you, behold the man, a man ſo torn in all his parts, that no part can be known by it ſelf, but by the property of its torture; Behold his head tented with thorns, his cheeks macerated with buffets, his face che<g ref="char:EOLhyphen"/>quered with blood and ſpittle, his hand behold with a Reed, his back plowed over with ſtripes: O that ye would behold what words hath ſtoun<g ref="char:EOLhyphen"/>ded his ears, what ſwords have paſſed through his ſoul; ſhall yet the ſpear rip up his ſide? ſhall yet the nail pierce his feet? ſhall this man be crucified? Behold him again, and then behold your ſelves, how many Jews are in each of you, ſince each of you have procured al theſe outrages; hear the cry of your ſelves, <hi>Crucifie him, Cruci<g ref="char:EOLhyphen"/>fie him;</hi> well, if he muſt die, if the ſame Judge having thrice pronounced him innocent, muſt in the ſame breath condemn Chriſt and himſelf, his willingneſſe is as ready as the neceſsity is urgent; let him <hi>become obedient unto Death, Phillip.</hi> 2. 8.</p>
+                  <p>But could the Creatot die, and be brought
+<pb n="56" facs="tcp:46281:41"/> himſelf ſo near that nothing out of which he brea<g ref="char:EOLhyphen"/>thed all things? No Death being onely a Divorce of the natural parts could not ſeparate the God<g ref="char:EOLhyphen"/>head, the man onely died, the perſon was but in a ſound, the commerce and influence of the whole Divinity, like the Spirits in a falling Diſ<g ref="char:EOLhyphen"/>eaſe, did not vaniſh, but retire; that aſtoniſhing voice, <hi>My God, my God, why haſt thou for ſaken me?</hi> infers no more: For how ſhould God and Man be accorded by him who ſuffered a diſ-uni<g ref="char:EOLhyphen"/>on of God and Man in himſelf? all this was but a ſharp pull of his former Agony, where an Au<g ref="char:EOLhyphen"/>gel did then chear him, but now he is forſaken of all induring the height of Anguiſh in the end of Life, that we might receive the greater com<g ref="char:EOLhyphen"/>fort in the point of Death: And hereby he gives his enemy the fierceſt blow at laſt, while he ſtretcheth himſelf, and roars over the prey, as it became the Lion of the Tribe of <hi>Juda.</hi> But what had Death to do to puniſh, when Bap<g ref="char:EOLhyphen"/>tiſm had nothing to waſh <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> his ſeeming <note place="margin">☞</note> contradiction is the main thing of our Salvation. For if Death be the wages of ſin, and ſin be not in Chriſt, it remains that our ſins put him to death, which he diſcharges as a Surety, not as a Debter. <hi>Adams</hi> Diſobedience in the eaſieſt Command, is recompenced by Chriſts Obedi<g ref="char:EOLhyphen"/>ence in the hardeſt Injunction; for Obedience
+<pb n="57" facs="tcp:46281:41"/> conſiſting in the renowning our ſelves, is moſt e<g ref="char:EOLhyphen"/>minent in Death.</p>
+                  <p>
+                     <hi>There is a Death in Death</hi> which makes it more then Death, the Jews malice and our Sa<g ref="char:EOLhyphen"/>viours obedience are well met to entertain it, both which emulate each other; So habituate and ob<g ref="char:EOLhyphen"/>durate themſelves, that they forgetting their Splcen, may now beleeve they do juſtice; and Chriſt, were he any beſides himſelf, might think he died deſervedly: Could any Tyranny have ſtartled his Obedience, the Croſſe had done it, whoſe gripes are implyed to be infinite, while their Eury is here matched as an even meaſure with the Patience of God. <hi>Behold yee that paſſe by; Was ever ſorrow like this ſarrow?</hi> Jer. 1. 21. A ſorrow that might be felt by look<g ref="char:EOLhyphen"/>ing on, felt by that which had no feeling: The Earth was moved at his conſtancy, it fell a ſhaking when his hands were <note place="margin">Why the Earth ſhook at our Savi<g ref="char:EOLhyphen"/>ours Paſſi<g ref="char:EOLhyphen"/>on.</note> faſtened, it reeled and ſtaggered when it miſſed his feet whoſe touch ſuppor<g ref="char:EOLhyphen"/>ted it: One timely wound at the heart had been a friendly murther: But when all the extream parts are beſet with diſtinct killings, yet none ſo kind as to diſpatch him, when the nail onely tortures, not deſtroy<g ref="char:EOLhyphen"/>ing the part, but deading the ſenſe making Death live, the Croſſe it ſelf muſt needs be the onely
+<pb n="58" facs="tcp:46281:42"/> Pulpit to expreſſe Anguiſh. But why all theſe ſtations? <hi>Tardiora ſunt remedia quem mala;</hi> It is eaſier to ſpill then to gather, to marre then to mend.</p>
+                  <p>In mans creation and fall, God and Divels were quick at work: but when it comes to re<g ref="char:EOLhyphen"/>demption, how many premiſes? how many ages of expectance? what growth? what preparation? what lingring execution muſt joyn to finiſh the Sacrifice? for ſhould our Saviour have made haſt in his task, it would have filled us with wonder rather then thanks, and would have reliſhed more of power then love: but great muſt his love be when he dwels on his pain, when he de<g ref="char:EOLhyphen"/>lights in ſorrow, and huggs it inſtead of them he loves.</p>
+                  <p>Whileſt his body was thus afflicted, the Jews took care that his ſoul ſhould not be idle, who provided a puniſhment mixed with as much ſhame as ſmart; for although the Croſſe had ne<g ref="char:EOLhyphen"/>ver been made infamous by the communion of Slaves yet how ſhamefull it was, might be read in his own countenance, <hi>the ſeat of ſhame:</hi> he enjoy<g ref="char:EOLhyphen"/>ed not here the priviledg of others, Death the face was covered with nothing but ſhame, and to its greater confuſion, it beheld the bodies nakedneſs; the firſt object of ſhame, not in ſecret as our firſt Parents did, but before a cloud of inſulting ſcorn<g ref="char:EOLhyphen"/>ers,
+<pb n="59" facs="tcp:46281:42"/> ſuch as durſt mock him when he was clad in purple: it is true our Saviour had no cauſe of ſhame in himſelf yet
+<q>
+                        <hi>Innocency may be dipt in a bluſh as well as guilt, not for any conſcions ground in its own boſome, but a timerous ſuſ<g ref="char:EOLhyphen"/>pition of ſiniſter thoughts in others;</hi>
+                     </q> which made the Sun remember its duty in cloaking him from ſhame, who cloathed it with light, &amp; ſeaſo<g ref="char:EOLhyphen"/>nably denying his beams in a time unſeaſonable, The Statiſts of the Synagogue well knew what they ask'd when they they ask'd for a crucifying; in death they ſtroke at his life, in the death of the Croſſe they aimed at his name, they that hated his Doctrine more then his perſon, ſlew him but to come at his memory, in murthering which they might ever raiſe a continuall ſlaughter, not onely on him, but on all thoſe that ſhould follow ſo vile a maſter: this wooden engine was a ſtum<g ref="char:EOLhyphen"/>bling block to the Jew and Gentile, to whom it ſeemed incredible, that the author of life ſhould die ſo baſe a death again that ſuch a death ſhould be the ſpring of life, it appeared a greater riddle then that the honey ſhould be hived in a carkaſſ: but we know how the diſgrace of this Altar made our ſacrifice the more acceptable, <hi>Iudg.</hi> 14. and know the ſtench of the place gave it a ſweeter ſavour, and how all our glory is founded on this diſhonour; why then ſhould it be ſtrange that
+<pb n="60" facs="tcp:46281:43"/> Chriſt died the death of a ſlave, ſince he died for the ſlaves of ſin. Had not a thief therefore the firſt handſel of Redemption? happy life, who quitted his reckoning for death to come, while here at once he was twice crucified in himſelf &amp; Chriſt. It was neceſſary that Chriſt ſhould hang naked on the Tree, to free us from the Trees maledicti<g ref="char:EOLhyphen"/>on which firſt ſhewed us to be naked; nor ought his death to be private as his birth, but expoſed to publick view that ſo paying ranſom for the world he might take a whole nation to witneſs. But is their fury yet ſated, and their rancour glutted? no, Chriſts bones ſhould be broken did not a Pro<g ref="char:EOLhyphen"/>pheſie keep them whole; but lo the flints and the bones of the earth are broken for them, his gar<g ref="char:EOLhyphen"/>ments ſhould be tortured, did not myſtery diſpoſe of the ſouldiers Avarice; but lo the vail of the Temple is rent for't, and the <hi>Holy of Holies</hi> is taught to ſuffer with the more Holy.</p>
+                  <p>The death of the Croſſe was attended not one<g ref="char:EOLhyphen"/>ly with the worſt of ſhames but the greateſt of pains; our Saviours life went from him like wa<g ref="char:EOLhyphen"/>ter out of a little mouth'd veſſel, where a ſpeedy mortal wound had been a meritorious courteſie: to be betrayed by his own ſervant, to have that face defiled with ſpittle which Angels could not look on, and yet cannot look off from, to be
+<pb n="61" facs="tcp:46281:43"/> toſſed about like a Tennis ball, from <hi>Annas</hi> to <hi>Caiphas,</hi> from <hi>Caiphas</hi> to <hi>Pilate,</hi> from <hi>Pilate</hi> to <hi>Herod,</hi> and from <hi>Herod</hi> back to <hi>Pilate;</hi> to be accuſed of blaſphemy againſt God whoſe will he came to fulfill; of treaſon againſt <hi>Caeſar</hi> whom he was ſo carefull that he ſhould have his due, that rather then not pay tribute a fiſh ſhould bring it in his mouth; then for the Prince of Peace to have <hi>Barabas,</hi> a mover of ſedition, preferred before him, nay a murtherer, the deſtroyer of life thought to be more worthy of life then he that ſo often raiſed their dead; to be mocked with innocency clad in a white garment <hi>the myſtical robe of purity;</hi> to have the knee bowed to him in ſcorn to whoſe name every knee ſhould bow in devotion; to be delivered over to the ſouldiers to buffet and play with, who being men of bloud <hi>their very ſport is cruelty;</hi> and then to have thoſe hands barbarouſly nailed through that had made the whole world, and had been inſtruments in ſo many pious and charitable deeds; thoſe feet that trode the way of Gods commands to a thread to ſuffer as if they had been ſwift to ſhed bloud, <hi>&amp;c.</hi>
+                  </p>
+                  <p>What now remains, but having ſurveyed this bitter Paſſion, I turn it to a definition of our Salvation? the Prophet hath done it for me, <hi>Eſay</hi> 53. 5. <hi>Hee was wounded for our Tranſ<g ref="char:EOLhyphen"/>greſſions;</hi>
+                     <pb n="62" facs="tcp:46281:44"/> 
+                     <hi>He was bruiſed for our Iniquities; The chastiſement of Peace was upon him and by his ſtripes are we healed.</hi> The Lord is my Shield, ſaith the Pſalmiſt, <hi>Pſal.</hi> 28. 8. For like a Shield hee hath warded off the blow from us.</p>
+                  <p>What ſin is there for which the Lord Jeſus hath not ſuffered? He ſweat Bloud for the Idlers, was Mocked for the Scorners, Blaſphemed for the Swearer, Spit on for the Malicious, Falſely ac<g ref="char:EOLhyphen"/>cuſed for the Liar, Buffetted for the Violent man, Toſled up and down for the Troubleſome, did Pennance in white for the Adulterer, he was Scourged for the Stealer, Crowned with Thorns for the Ambitious, Burned in the Feet for the Stragler, in the Hand for the corrupt Receiver, Gall and Vinegar to drink for the Riotous: for all he died; for the Secreſie of all he died Open<g ref="char:EOLhyphen"/>ly with ſhame on the Croſſe.</p>
+                  <p>LEt the Blood therefore from which <hi>Pi<g ref="char:EOLhyphen"/>late</hi> waſhed his hands, waſh us all over, and grant (good Lord) that wee may ſafe<g ref="char:EOLhyphen"/>ly paſſe through this Red Sea of thy Paſſi<g ref="char:EOLhyphen"/>on, wherein though the ſpiritual <hi>Pharaoh</hi> and his Hoſte, though the Iſraelites themſelves bee drowned; yet let it open a way for us Gen<g ref="char:EOLhyphen"/>tiles,
+<pb n="63" facs="tcp:46281:44"/> into that Kingdome which thou haſt pro<g ref="char:EOLhyphen"/>miſed.</p>
+                  <closer>Quod faxit Deus.</closer>
+                  <closer>AMEN.</closer>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+            <back>
+               <div type="errata">
+                  <head>ERRATA.</head>
+                  <p>
+                     <hi>PAge</hi> 26. <hi>line</hi> 17. <hi>for</hi> piantiphraſin, <hi>read</hi> per Antiphraſin, <hi>Page</hi> 38. <hi>line</hi> 17. <hi>for</hi> adjunt <hi>read</hi> ad ſunt.</p>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
